@@ -2,8 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design_pattern/01-singleton.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javascript设计模式.md" afterPath="$PROJECT_DIR$/javascript设计模式.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design_pattern/02-strategy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design_pattern/03-proxy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design_pattern/04-iterator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design_pattern/05-sub_pub.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design_pattern/06-command.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design_pattern/07-component.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design_pattern/08-template-method.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design_pattern/09-flyweight.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design_pattern/10-responsibility-chain.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design_pattern/11-mediator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design_pattern/12-decorator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design_pattern/13-state.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design_pattern/14-adaptor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascript设计模式学习笔记.md" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/javascript设计模式.md" afterPath="" />
     </list>
     <ignored path="前端知识学习.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -24,12 +37,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="javascript设计模式.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/javascript设计模式.md">
+      <file leaf-file-name="javascript设计模式学习笔记.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/javascript设计模式学习笔记.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="66">
-                <caret line="3" column="49" selection-start-line="3" selection-start-column="49" selection-end-line="3" selection-end-column="49" />
+              <first_editor relative-caret-position="572">
+                <caret line="42" column="36" selection-start-line="42" selection-start-column="36" selection-end-line="42" selection-end-column="36" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -40,14 +53,92 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="01-singleton.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/design_pattern/01-singleton.js">
+      <file leaf-file-name="14-adaptor.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/design_pattern/14-adaptor.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
-              <folding>
-                <element signature="n#!!doc;n#test#0" expanded="false" />
-              </folding>
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="13-state.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/design_pattern/13-state.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="12-decorator.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/design_pattern/12-decorator.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="11-mediator.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/design_pattern/11-mediator.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="10-responsibility-chain.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/design_pattern/10-responsibility-chain.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="09-flyweight.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/design_pattern/09-flyweight.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="08-template-method.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/design_pattern/08-template-method.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="07-component.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/design_pattern/07-component.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="06-command.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/design_pattern/06-command.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -69,6 +160,19 @@
       <list>
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/design_pattern/01-singleton.js" />
+        <option value="$PROJECT_DIR$/design_pattern/02-strategy.js" />
+        <option value="$PROJECT_DIR$/design_pattern/03-proxy.js" />
+        <option value="$PROJECT_DIR$/design_pattern/04-iterator.js" />
+        <option value="$PROJECT_DIR$/design_pattern/05-sub_pub.js" />
+        <option value="$PROJECT_DIR$/design_pattern/06-command.js" />
+        <option value="$PROJECT_DIR$/design_pattern/07-comopent.js" />
+        <option value="$PROJECT_DIR$/design_pattern/08-template-method.js" />
+        <option value="$PROJECT_DIR$/design_pattern/09-flyweight.js" />
+        <option value="$PROJECT_DIR$/design_pattern/10-responsibility-chain.js" />
+        <option value="$PROJECT_DIR$/design_pattern/11-mediator.js" />
+        <option value="$PROJECT_DIR$/design_pattern/12-decorator.js" />
+        <option value="$PROJECT_DIR$/design_pattern/13-state.js" />
+        <option value="$PROJECT_DIR$/design_pattern/14-adaptor.js" />
         <option value="$PROJECT_DIR$/javascript设计模式.md" />
       </list>
     </option>
@@ -123,20 +227,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="前端知识学习" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="前端知识学习" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="前端知识学习" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="design_pattern" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -205,18 +295,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1467014886384</updated>
-      <workItem from="1467014887497" duration="687000" />
+      <workItem from="1467014887497" duration="1216000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="687000" />
+    <option name="totallyTimeSpent" value="1216000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2494043" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2494043" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -266,11 +356,115 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/javascript设计模式.md">
+    <entry file="file://$PROJECT_DIR$/design_pattern/02-strategy.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/03-proxy.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/04-iterator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/05-sub_pub.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/06-command.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/07-component.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/08-template-method.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/09-flyweight.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/10-responsibility-chain.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/11-mediator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/12-decorator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/13-state.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/14-adaptor.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript设计模式学习笔记.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="66">
-            <caret line="3" column="49" selection-start-line="3" selection-start-column="49" selection-end-line="3" selection-end-column="49" />
+          <first_editor relative-caret-position="572">
+            <caret line="42" column="36" selection-start-line="42" selection-start-column="36" selection-end-line="42" selection-end-column="36" />
             <folding />
           </first_editor>
           <second_editor />
