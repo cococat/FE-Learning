@@ -1,7 +1,7 @@
 ## 《javascript设计模式与开发实践》学习
 
 #### 1. 单例模式
-<a href='./design_pattern/singleton'>点此查看</a>
+<a href='./design_pattern/01-singleton.js'>单例模式例子</a>
 #### 2. 策略模式
 #### 3. 代理模式
 #### 4. 迭代器模式
