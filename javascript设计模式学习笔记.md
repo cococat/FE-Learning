@@ -50,3 +50,6 @@
 
 #### 14. 适配器模式
 <a href='./design_pattern/14-adaptor.html'>适配器模式例子</a>   
+
+#### 15. 设计原则与编程技巧
+<a href='./design_pattern/15-设计原则与编程技巧.html'>设计原则与编程技巧</a>   
