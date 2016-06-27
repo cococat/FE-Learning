@@ -2,23 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithms/00-斐波那契数列.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithms/01_Two-Sum.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithms/07-Reverse Integer.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithms/08-String-to-Integer.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithms/09-Palindrome Number.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithms/14_LongestCommonPrefix.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithms/15-3sum.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithms/19-Remove Nth Node from the end of list.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithms/20-Valid Parentheses.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithms/21-Merge Two Sorted Lists.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithms/242-Valid Anagram.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithms/345-Reverse Vowels of a String.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithms/347-Top K Frequent Elements.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithms/349-Intersection of Two Arrays.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithms/53-Maximum Subarray.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascript算法与数据结构学习笔记.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="前端知识学习.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -39,12 +23,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="javascript算法与数据结构学习笔记.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="javascript算法与数据结构学习笔记.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/javascript算法与数据结构学习笔记.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
               <first_editor relative-caret-position="550">
                 <caret line="45" column="52" selection-start-line="45" selection-start-column="52" selection-end-line="45" selection-end-column="52" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+          <provider editor-type-id="MarkdownFxPreviewEditor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="110">
+                <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -80,7 +80,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/design_pattern/01-singleton.js" />
         <option value="$PROJECT_DIR$/design_pattern/02-strategy.js" />
         <option value="$PROJECT_DIR$/design_pattern/03-proxy.js" />
@@ -97,6 +96,7 @@
         <option value="$PROJECT_DIR$/design_pattern/14-adaptor.js" />
         <option value="$PROJECT_DIR$/javascript设计模式.md" />
         <option value="$PROJECT_DIR$/javascript算法与数据结构学习笔记.md" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -234,12 +234,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1467014886384</updated>
-      <workItem from="1467014887497" duration="2068000" />
+      <workItem from="1467014887497" duration="2203000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2068000" />
+    <option name="totallyTimeSpent" value="2203000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -271,20 +271,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="22">
-            <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/design_pattern/01-singleton.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
@@ -434,6 +420,20 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="550">
             <caret line="45" column="52" selection-start-line="45" selection-start-column="52" selection-end-line="45" selection-end-column="52" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="110">
+            <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
             <folding />
           </first_editor>
           <second_editor />
