@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithms2/01-singleton.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithms2/01-singleton.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascript算法与数据结构学习(Part2).md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript算法与数据结构学习笔记.md" afterPath="$PROJECT_DIR$/javascript算法与数据结构学习(Part1).md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="前端知识学习.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,11 +27,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="javascript算法与数据结构学习笔记.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/javascript算法与数据结构学习笔记.md">
+      <file leaf-file-name="javascript算法与数据结构学习(Part1).md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/javascript算法与数据结构学习(Part1).md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="550">
+              <first_editor relative-caret-position="990">
                 <caret line="45" column="52" selection-start-line="45" selection-start-column="52" selection-end-line="45" selection-end-column="52" />
                 <folding />
               </first_editor>
@@ -39,8 +43,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
+      <file leaf-file-name="javascript算法与数据结构学习(Part2).md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/javascript算法与数据结构学习(Part2).md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
               <first_editor relative-caret-position="88">
@@ -55,10 +59,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="242-Valid Anagram.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/algorithms/242-Valid Anagram.html">
+      <file leaf-file-name="01-singleton.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/algorithms2/01-singleton.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-220">
+            <state relative-caret-position="0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -97,6 +101,8 @@
         <option value="$PROJECT_DIR$/javascript设计模式.md" />
         <option value="$PROJECT_DIR$/javascript算法与数据结构学习笔记.md" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/algorithms2/01-singleton.js" />
+        <option value="$PROJECT_DIR$/javascript算法与数据结构学习(Part2).md" />
       </list>
     </option>
   </component>
@@ -163,7 +169,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="algorithms" />
+              <option name="myItemId" value="algorithms2" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -183,8 +189,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/algorithms" />
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/algorithms" />
     </key>
   </component>
   <component name="RunManager">
@@ -234,12 +240,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1467014886384</updated>
-      <workItem from="1467014887497" duration="2404000" />
+      <workItem from="1467014887497" duration="2784000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2404000" />
+    <option name="totallyTimeSpent" value="2784000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -415,10 +421,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/javascript算法与数据结构学习笔记.md">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="550">
+          <first_editor relative-caret-position="88">
+            <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript算法与数据结构学习(Part1).md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="990">
             <caret line="45" column="52" selection-start-line="45" selection-start-column="52" selection-end-line="45" selection-end-column="52" />
             <folding />
           </first_editor>
@@ -429,7 +449,23 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/algorithms2/01-singleton.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms2/01-singleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript算法与数据结构学习(Part2).md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="88">
