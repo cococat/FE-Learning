@@ -1,10 +1,13 @@
 ## 《javascript设计模式与开发实践》学习
 
-#### 0. this,call,apply,bind
+#### 001. this,call,apply,bind
 <a href='./design_pattern/00-this,call,apply,bind.html'>this,call,apply,bind</a>   
 
-#### 0. 闭包与高阶函数
+#### 002. 闭包与高阶函数
 <a href='./design_pattern/00-闭包与高阶函数.html'>闭包与高阶函数</a>   
+
+#### 003. javascript高阶函数实现AOP
+<a href='./design_pattern/00-高阶函数实现AOP.html'>高阶函数实现AOP</a>   
 
 #### 1. 单例模式
 <a href='./design_pattern/01-singleton.html'>单例模式例子</a>   
