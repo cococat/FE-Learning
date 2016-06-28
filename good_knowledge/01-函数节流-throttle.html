@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>函数节流-throttle</title>
+</head>
+<body>
+
+<h4>
+    假设浏览器窗口滚动条滚动时会调用一个方法fn,下面一步步实现一个节流函数.
+</h4>
+
+<script>
+    /**
+     * 第一个版本
+     * 缺点:产生了全局变量
+     */
+    var timer;
+    window.onscroll = function () {
+        clearTimeout(timer);
+        timer = setTimeout(function () {
+            console.log('window scroll...');
+        }, 200);
+    }
+</script>
+
+
+<script>
+    /***
+     * 第二个版本,使用闭包来封装全局变量
+     * 缺点:如果用户不停的滚动滚动条,那么延时函数一次都不会触发
+     */
+    var throttle = function (fn, delay) {
+        var timer = null;
+
+        return function () {
+            clearTimeout(timer);
+            timer = setTimeout(function () {
+                fn();
+            }, delay);
+        }
+    }
+
+    var f = throttle(testFn, 200);
+    window.onscroll = function () {
+        f();
+    };
+</script>
+
+
+<script>
+    /***
+     * 于是我们又要添加一个功能：当用户触发 scroll 的时候应该 在某段时间 内至少触发一次，既然是在某段时间内，
+     * 那么这个判断条件就可以取当前的时间毫秒数，每次函数调用把当前的时间和上一次调用时间相减，然后判断差值如果大于 某段时间 就直接触发，
+     * 否则还是走 timeout 的延迟逻辑。
+
+     下面的代码里面需要指出的是：
+     1. previous 变量的作用和 timer 类似，都是记录上一次的标识，必须是相对的全局变量
+     2. 如果逻辑流程走的是“至少触发一次”的逻辑，那么函数调用完成需要把 previous 重置成当前时间，简单来说就是：相对于下一次的上一次其实就是当前
+     */
+
+    var COUNT = 0, demo = document.getElementById('demo');
+    function testFn() {
+        demo.innerHTML += 'testFN 被调用了 ' + ++COUNT + '次<br>';
+    }
+
+    var throttle = function (fn, delay, atleast) {
+        var timer = null;
+        var previous = null;
+
+        return function () {
+            var now = +new Date();
+
+            if (!previous) previous = now;
+            if (atleast && now - previous > atleast) {
+                fn();
+                // 重置上一次开始时间为本次结束时间
+                previous = now;
+                clearTimeout(timer);
+            } else {
+                clearTimeout(timer);
+                timer = setTimeout(function () {
+                    fn();
+                    previous = null;
+                }, delay);
+            }
+        }
+    };
+    window.onscroll = throttle(testFn, 200);
+    // window.onscroll = throttle(testFn, 500, 1000);
+</script>
+
+</body>
+</html>
