@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mongodb/03-学习过程中使用的数据库.md" afterPath="$PROJECT_DIR$/mongodb/03-学习过程中使用的数据库.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mongodb/05-文档更新(重要).md" afterPath="$PROJECT_DIR$/mongodb/05-文档更新(重要).md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mongodb/06-文档查询.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="前端知识学习.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -24,31 +24,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="05-文档更新(重要).md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/mongodb/05-文档更新(重要).md">
+      <file leaf-file-name="06-文档查询.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mongodb/06-文档查询.md">
           <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
             <state />
           </provider>
           <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="385">
-                <caret line="61" column="44" selection-start-line="61" selection-start-column="44" selection-end-line="61" selection-end-column="44" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="03-学习过程中使用的数据库.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mongodb/03-学习过程中使用的数据库.md">
-          <provider editor-type-id="MarkdownFxPreviewEditor">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="-561">
-                <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="69" />
+              <first_editor relative-caret-position="528">
+                <caret line="24" column="6" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -72,7 +56,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/design_pattern/01-singleton.js" />
         <option value="$PROJECT_DIR$/design_pattern/02-strategy.js" />
         <option value="$PROJECT_DIR$/design_pattern/03-proxy.js" />
         <option value="$PROJECT_DIR$/design_pattern/04-iterator.js" />
@@ -123,6 +106,7 @@
         <option value="$PROJECT_DIR$/mongodb/04-文档插入与删除.md" />
         <option value="$PROJECT_DIR$/mongodb/03-学习过程中使用的数据库.md" />
         <option value="$PROJECT_DIR$/mongodb/05-文档更新(重要).md" />
+        <option value="$PROJECT_DIR$/mongodb/06-文档查询.md" />
       </list>
     </option>
   </component>
@@ -274,18 +258,18 @@
       <workItem from="1467014887497" duration="6701000" />
       <workItem from="1467160866962" duration="627000" />
       <workItem from="1467161661034" duration="2508000" />
-      <workItem from="1467164244137" duration="6154000" />
+      <workItem from="1467164244137" duration="7671000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15990000" />
+    <option name="totallyTimeSpent" value="17507000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12629071" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23987292" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -319,20 +303,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/javascript设计模式学习笔记.md">
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="66">
-            <caret line="3" column="81" selection-start-line="3" selection-start-column="81" selection-end-line="3" selection-end-column="81" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/design_pattern/02-strategy.js" />
     <entry file="file://$PROJECT_DIR$/design_pattern/03-proxy.js" />
     <entry file="file://$PROJECT_DIR$/design_pattern/04-iterator.js" />
@@ -646,6 +616,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/mongodb/05-文档更新(重要).md">
+      <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="385">
+            <caret line="61" column="44" selection-start-line="61" selection-start-column="44" selection-end-line="61" selection-end-column="44" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/mongodb/03-学习过程中使用的数据库.md">
       <provider editor-type-id="MarkdownFxPreviewEditor">
         <state />
@@ -660,14 +644,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mongodb/05-文档更新(重要).md">
+    <entry file="file://$PROJECT_DIR$/mongodb/06-文档查询.md">
       <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
         <state />
       </provider>
       <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="385">
-            <caret line="61" column="44" selection-start-line="61" selection-start-column="44" selection-end-line="61" selection-end-column="44" />
+          <first_editor relative-caret-position="528">
+            <caret line="24" column="6" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
             <folding />
           </first_editor>
           <second_editor />
