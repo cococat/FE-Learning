@@ -1,7 +1,7 @@
 ## 《javascript设计模式与开发实践》学习
 
 #### 001. this,call,apply,bind
-<a href='./design_pattern/00-this,call,apply,bind.html'>this,call,apply,bind</a>   
+<a href='./design_pattern/00-this,call,apply,bind.html'>this,call,apply,bind的实现原理</a>   
 
 #### 002. 闭包与高阶函数
 <a href='./design_pattern/00-闭包与高阶函数.html'>闭包与高阶函数</a>   
