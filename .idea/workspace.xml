@@ -2,50 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/javascript算法与数据结构学习(Part1-LeetCode).md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/javascript算法与数据结构学习(Part2).md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/javascript设计模式学习笔记.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mongodb学习(待完成).md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/前端优质知识点总结.md" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/algorithms/00-斐波那契数列.html" afterPath="$PROJECT_DIR$/算法与数据结构(LeetCode)/00-斐波那契数列.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/algorithms/01_Two-Sum.html" afterPath="$PROJECT_DIR$/算法与数据结构(LeetCode)/01_Two-Sum.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/algorithms/07-Reverse Integer.html" afterPath="$PROJECT_DIR$/算法与数据结构(LeetCode)/07-Reverse Integer.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/algorithms/08-String-to-Integer.html" afterPath="$PROJECT_DIR$/算法与数据结构(LeetCode)/08-String-to-Integer.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/algorithms/09-Palindrome Number.html" afterPath="$PROJECT_DIR$/算法与数据结构(LeetCode)/09-Palindrome Number.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/algorithms/14_LongestCommonPrefix.html" afterPath="$PROJECT_DIR$/算法与数据结构(LeetCode)/14_LongestCommonPrefix.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/algorithms/15-3sum.html" afterPath="$PROJECT_DIR$/算法与数据结构(LeetCode)/15-3sum.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/algorithms/19-Remove Nth Node from the end of list.html" afterPath="$PROJECT_DIR$/算法与数据结构(LeetCode)/19-Remove Nth Node from the end of list.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/algorithms/20-Valid Parentheses.html" afterPath="$PROJECT_DIR$/算法与数据结构(LeetCode)/20-Valid Parentheses.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/algorithms/21-Merge Two Sorted Lists.html" afterPath="$PROJECT_DIR$/算法与数据结构(LeetCode)/21-Merge Two Sorted Lists.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/algorithms/242-Valid Anagram.html" afterPath="$PROJECT_DIR$/算法与数据结构(LeetCode)/242-Valid Anagram.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/algorithms/345-Reverse Vowels of a String.html" afterPath="$PROJECT_DIR$/算法与数据结构(LeetCode)/345-Reverse Vowels of a String.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/algorithms/347-Top K Frequent Elements.html" afterPath="$PROJECT_DIR$/算法与数据结构(LeetCode)/347-Top K Frequent Elements.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/algorithms/349-Intersection of Two Arrays.html" afterPath="$PROJECT_DIR$/算法与数据结构(LeetCode)/349-Intersection of Two Arrays.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/algorithms/53-Maximum Subarray.html" afterPath="$PROJECT_DIR$/算法与数据结构(LeetCode)/53-Maximum Subarray.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/algorithms2/00-需要非常熟练掌握的数据结构.html" afterPath="$PROJECT_DIR$/算法与数据结构(剑指Offer)/00-需要非常熟练掌握的数据结构.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/algorithms2/01-singleton.java" afterPath="$PROJECT_DIR$/算法与数据结构(剑指Offer)/01-singleton.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/algorithms2/01-singleton.js" afterPath="$PROJECT_DIR$/算法与数据结构(剑指Offer)/01-singleton.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/00-this,call,apply,bind.html" afterPath="$PROJECT_DIR$/javascript设计模式/00-this,call,apply,bind.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/00-闭包与高阶函数.html" afterPath="$PROJECT_DIR$/javascript设计模式/00-闭包与高阶函数.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/00-高阶函数实现AOP.html" afterPath="$PROJECT_DIR$/javascript设计模式/00-高阶函数实现AOP.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/01-singleton.html" afterPath="$PROJECT_DIR$/javascript设计模式/01-singleton.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/02-strategy.html" afterPath="$PROJECT_DIR$/javascript设计模式/02-strategy.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/03-proxy.html" afterPath="$PROJECT_DIR$/javascript设计模式/03-proxy.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/04-iterator.html" afterPath="$PROJECT_DIR$/javascript设计模式/04-iterator.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/05-sub_pub.html" afterPath="$PROJECT_DIR$/javascript设计模式/05-sub_pub.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/06-command.html" afterPath="$PROJECT_DIR$/javascript设计模式/06-command.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/07-component.html" afterPath="$PROJECT_DIR$/javascript设计模式/07-component.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/08-template-method.html" afterPath="$PROJECT_DIR$/javascript设计模式/08-template-method.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/09-flyweight.html" afterPath="$PROJECT_DIR$/javascript设计模式/09-flyweight.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/10-responsibility-chain.html" afterPath="$PROJECT_DIR$/javascript设计模式/10-responsibility-chain.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/11-mediator.html" afterPath="$PROJECT_DIR$/javascript设计模式/11-mediator.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/12-decorator.html" afterPath="$PROJECT_DIR$/javascript设计模式/12-decorator.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/13-state.html" afterPath="$PROJECT_DIR$/javascript设计模式/13-state.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/14-adaptor.html" afterPath="$PROJECT_DIR$/javascript设计模式/14-adaptor.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/15-设计原则与编程技巧.html" afterPath="$PROJECT_DIR$/javascript设计模式/15-设计原则与编程技巧.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/git基本使用.pdf" afterPath="$PROJECT_DIR$/其他/git基本使用.pdf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/good_knowledge/01-函数节流-throttle.html" afterPath="$PROJECT_DIR$/前端优质题目/01-函数节流-throttle.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mongodb/01-MongoDB基础.md" afterPath="$PROJECT_DIR$/mongodb/01-MongoDB基础.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascript函数式编程/01-一些例子.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="前端知识学习.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -65,13 +24,26 @@
     <favorites_list name="前端知识学习" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="01-一些例子.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/javascript函数式编程/01-一些例子.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="24" column="41" selection-start-line="24" selection-start-column="41" selection-end-line="24" selection-end-column="41" />
+              <folding>
+                <element signature="n#!!doc;n#splat#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -81,7 +53,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/javascript设计模式.md" />
         <option value="$PROJECT_DIR$/javascript算法与数据结构学习笔记.md" />
         <option value="$PROJECT_DIR$/algorithms2/01-singleton.js" />
         <option value="$PROJECT_DIR$/design_pattern/00-闭包与高阶函数.html" />
@@ -117,7 +88,6 @@
         <option value="$PROJECT_DIR$/mongodb/05-文档更新(重要).md" />
         <option value="$PROJECT_DIR$/mongodb/07-索引.md" />
         <option value="$PROJECT_DIR$/mongodb/08-特殊索引和集合.md" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/mongodb/10-聚合(mapReduce!!!).md" />
         <option value="$PROJECT_DIR$/mongodb/03-学习过程中使用的数据库.md" />
         <option value="$PROJECT_DIR$/mongodb/06-文档查询.md" />
@@ -132,6 +102,8 @@
         <option value="$PROJECT_DIR$/mongodb/17-服务器管理与监控.md" />
         <option value="$PROJECT_DIR$/mongodb/18-MongoDB监控与备份.md" />
         <option value="$PROJECT_DIR$/前端优质知识点总结.md" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/javascript函数式编程/01-一些例子.js" />
       </list>
     </option>
   </component>
@@ -190,6 +162,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="前端知识学习" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="前端知识学习" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javascript函数式编程" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -203,6 +189,7 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="FullScreen" value="true" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -213,7 +200,10 @@
       <recent name="$PROJECT_DIR$/algorithms" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Node.js.01-一些例子.js">
+    <configuration default="false" name="01-一些例子.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="01-一些例子.js" working-dir="$PROJECT_DIR$/javascript函数式编程">
+      <method />
+    </configuration>
     <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
       <config-file value="" />
       <node-interpreter value="project" />
@@ -255,6 +245,14 @@
       <recursive>false</recursive>
       <method />
     </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Node.js.01-一些例子.js" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Node.js.01-一些例子.js" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -272,33 +270,33 @@
       <workItem from="1467014887497" duration="6701000" />
       <workItem from="1467160866962" duration="627000" />
       <workItem from="1467161661034" duration="2508000" />
-      <workItem from="1467164244137" duration="25314000" />
+      <workItem from="1467164244137" duration="26172000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35150000" />
+    <option name="totallyTimeSpent" value="36008000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22875299" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22875299" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -317,7 +315,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/design_pattern/14-adaptor.js" />
     <entry file="file://$PROJECT_DIR$/算法与数据结构(LeetCode)/00-斐波那契数列.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-115">
@@ -498,20 +495,6 @@
         <state relative-caret-position="176">
           <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="176">
-            <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
-            <folding />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -828,6 +811,30 @@
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="198">
+            <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript函数式编程/01-一些例子.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="24" column="41" selection-start-line="24" selection-start-column="41" selection-end-line="24" selection-end-column="41" />
+          <folding>
+            <element signature="n#!!doc;n#splat#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
