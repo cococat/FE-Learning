@@ -1,6 +1,6 @@
-### 聚合明星-MapReduce(P143)
+### 聚合明星-MapReduce(P143!!!)
 
-#### 1.MapReduce非常强大和灵活,能够表达任意复杂的逻辑,但是非常慢,所以不应该用于实时数据分析中。
+### 1.MapReduce非常强大和灵活,能够表达任意复杂的逻辑,但是非常慢,所以不应该用于实时数据分析中。
 MapReduce能够在多台服务器之间并行运行,它将一个大问题分解成许多小问题,发送到集群上完成,等到所有机器都完成时,再将结果收集起来得到完整的解决方案。
 
 
@@ -40,4 +40,25 @@ db.runCommand({
     out:'mr1_result'
 })
 db['mr1_result'].find()
+
+
+### 2.聚合命令:为基本聚合任务提供的一些命令,复杂的group仍然要使用javascript
+1. `count()`
+db.user.find().count()
+
+2. `distinct`: 找出给定键的所有不同值,使用时必须指定集合和键
+db.runCommand({distinct:'user',key:'name'})
+
+3. `group`:根据指定的键进行分组,再对各个分组内的文档进行聚合操作,最后得到结果文档(类似关系型数据库sql中的group by)   P150!!!
+db.runCommand({
+    group:{
+        ns:'user',    //要操作的集合 
+        key:'name',   //指定键
+        initial:{count:0},   //初始值
+        '$reduce':function(doc,prev){   //$reduce函数,参数为:当前文档和累加器文档
+            prev.count++;
+        }
+    }
+})
+
 
