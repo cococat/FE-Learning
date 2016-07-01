@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="" />
+    <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript设计模式/01-单例模式singleton.html" afterPath="$PROJECT_DIR$/javascript设计模式/01-单例模式singleton.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript设计模式/02-策略模式strategy.html" afterPath="$PROJECT_DIR$/javascript设计模式/02-策略模式strategy.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="前端知识学习.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,7 +24,108 @@
     <favorites_list name="前端知识学习" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="00-this的四种用法.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/javascript设计模式/00-this的四种用法.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="526">
+              <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="00-函数节流throttle与防抖debounce.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/javascript设计模式/00-函数节流throttle与防抖debounce.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="00-简介、原型式继承与Object.create.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/javascript设计模式/00-简介、原型式继承与Object.create.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="00-闭包.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/javascript设计模式/00-闭包.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-530">
+              <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="00-高阶函数与柯里化Currying.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/javascript设计模式/00-高阶函数与柯里化Currying.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2508">
+              <caret line="114" column="62" selection-start-line="114" selection-start-column="62" selection-end-line="114" selection-end-column="62" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="00-高阶函数实现AOP.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/javascript设计模式/00-高阶函数实现AOP.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-24">
+              <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="01-单例模式singleton.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/javascript设计模式/01-单例模式singleton.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="02-策略模式strategy.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/javascript设计模式/02-策略模式strategy.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="397">
+              <caret line="136" column="1" selection-start-line="136" selection-start-column="1" selection-end-line="136" selection-end-column="1" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="00-call、apply用法和bind实现.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/javascript设计模式/00-call、apply用法和bind实现.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="262">
+              <caret line="19" column="40" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -36,9 +141,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/design_pattern/00-高阶函数实现AOP.html" />
-        <option value="$PROJECT_DIR$/design_pattern/15-设计原则与编程技巧.html" />
-        <option value="$PROJECT_DIR$/algorithms2/00-需要非常熟练掌握的数据结构.html" />
         <option value="$PROJECT_DIR$/javascript算法与数据结构学习(Part2).md" />
         <option value="$PROJECT_DIR$/前端优质题目总结/01-函数节流-throttle.html" />
         <option value="$PROJECT_DIR$/.gitignore" />
@@ -87,6 +189,9 @@
         <option value="$PROJECT_DIR$/javascript设计模式/00-函数节流throttle与防抖debounce.html" />
         <option value="$PROJECT_DIR$/MarkDown语法学习.md" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/javascript设计模式/01-单例模式singleton.html" />
+        <option value="$PROJECT_DIR$/javascript设计模式/01-单例模式singleton.js" />
+        <option value="$PROJECT_DIR$/javascript设计模式/02-策略模式strategy.js" />
       </list>
     </option>
   </component>
@@ -143,6 +248,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="前端知识学习" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="前端知识学习" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javascript设计模式" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -170,10 +289,7 @@
       <recent name="$PROJECT_DIR$/其他" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.00-高阶函数与柯里化Currying.js">
-    <configuration default="false" name="00-this,call,apply,bind.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/javascript设计模式/00-this的四种用法.js" working-dir="$PROJECT_DIR$/javascript设计模式">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Node.js.02-策略模式strategy.js">
     <configuration default="false" name="00-call、apply用法和bind实现.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="00-call、apply用法和bind实现.js" working-dir="$PROJECT_DIR$/javascript设计模式">
       <method />
     </configuration>
@@ -184,6 +300,9 @@
       <method />
     </configuration>
     <configuration default="false" name="00-高阶函数与柯里化Currying.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="00-高阶函数与柯里化Currying.js" working-dir="$PROJECT_DIR$/javascript设计模式">
+      <method />
+    </configuration>
+    <configuration default="false" name="02-策略模式strategy.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="02-策略模式strategy.js" working-dir="$PROJECT_DIR$/javascript设计模式">
       <method />
     </configuration>
     <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
@@ -228,19 +347,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.00-this,call,apply,bind.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.00-call、apply用法和bind实现.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.00-闭包与高阶函数、AOP.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.00-高阶函数实现AOP.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.00-高阶函数与柯里化Currying.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.00-call、apply用法和bind实现.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.00-闭包与高阶函数、AOP.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.00-高阶函数实现AOP.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.00-高阶函数与柯里化Currying.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.02-策略模式strategy.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.00-高阶函数与柯里化Currying.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.00-高阶函数实现AOP.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.00-闭包与高阶函数、AOP.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.00-call、apply用法和bind实现.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.00-this,call,apply,bind.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.02-策略模式strategy.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.00-高阶函数与柯里化Currying.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.00-高阶函数实现AOP.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.00-闭包与高阶函数、AOP.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.00-call、apply用法和bind实现.js" />
       </list>
     </recent_temporary>
   </component>
@@ -261,22 +380,22 @@
       <workItem from="1467160866962" duration="627000" />
       <workItem from="1467161661034" duration="2508000" />
       <workItem from="1467164244137" duration="29086000" />
-      <workItem from="1467266405310" duration="13555000" />
+      <workItem from="1467266405310" duration="16353000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52477000" />
+    <option name="totallyTimeSpent" value="55275000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30897537" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30897537" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20684932" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20684932" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
@@ -308,20 +427,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/javascript设计模式/08-模板方法模式templateMethod.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javascript设计模式/09-享元模式(蝇量模式)flyweight.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/javascript设计模式/10-责任链模式responsibilityChain.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
@@ -693,34 +798,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/javascript设计模式/00-call、apply用法和bind实现.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="19" column="40" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javascript设计模式/00-this的四种用法.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="638">
-          <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javascript设计模式/00-简介、原型式继承与Object.create.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/javascript设计模式/00-闭包与高阶函数.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -729,61 +806,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/javascript设计模式/00-闭包.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javascript设计模式/00-高阶函数实现AOP.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/前端优质题目/01-函数节流-throttle.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="15" column="17" selection-start-line="0" selection-start-column="0" selection-end-line="93" selection-end-column="7" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javascript设计模式/00-函数节流throttle与防抖debounce.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1613">
-          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javascript设计模式/00-高阶函数与柯里化Currying.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="114" column="62" selection-start-line="114" selection-start-column="62" selection-end-line="114" selection-end-column="62" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MarkDown语法指南.md">
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="-2310">
-            <caret line="14" column="11" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="11" />
-            <folding />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -798,6 +825,102 @@
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MarkDown语法指南.md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="-6503">
+            <caret line="14" column="11" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="11" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript设计模式/00-call、apply用法和bind实现.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="19" column="40" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript设计模式/00-this的四种用法.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="526">
+          <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript设计模式/00-函数节流throttle与防抖debounce.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript设计模式/00-简介、原型式继承与Object.create.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript设计模式/00-闭包.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-530">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript设计模式/00-高阶函数与柯里化Currying.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2508">
+          <caret line="114" column="62" selection-start-line="114" selection-start-column="62" selection-end-line="114" selection-end-column="62" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript设计模式/00-高阶函数实现AOP.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-24">
+          <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript设计模式/01-单例模式singleton.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript设计模式/02-策略模式strategy.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="136" column="1" selection-start-line="136" selection-start-column="1" selection-end-line="136" selection-end-column="1" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
