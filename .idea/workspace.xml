@@ -2,24 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascript设计模式/00-函数节流throttle与防抖debounce.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascript设计模式/00-高阶函数与柯里化Currying.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript设计模式/01-singleton.html" afterPath="$PROJECT_DIR$/javascript设计模式/01-单例模式singleton.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript设计模式/02-strategy.html" afterPath="$PROJECT_DIR$/javascript设计模式/14-适配器模式adaptor.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript设计模式/03-proxy.html" afterPath="$PROJECT_DIR$/javascript设计模式/13-状态模式state.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript设计模式/04-iterator.html" afterPath="$PROJECT_DIR$/javascript设计模式/12-装饰者模式decorator.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript设计模式/05-sub_pub.html" afterPath="$PROJECT_DIR$/javascript设计模式/11-中介者模式mediator.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript设计模式/06-command.html" afterPath="$PROJECT_DIR$/javascript设计模式/10-责任链模式responsibilityChain.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript设计模式/07-component.html" afterPath="$PROJECT_DIR$/javascript设计模式/09-享元模式(蝇量模式)flyweight.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript设计模式/08-template-method.html" afterPath="$PROJECT_DIR$/javascript设计模式/08-模板方法模式templateMethod.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript设计模式/09-flyweight.html" afterPath="$PROJECT_DIR$/javascript设计模式/07-组合模式component.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript设计模式/10-responsibility-chain.html" afterPath="$PROJECT_DIR$/javascript设计模式/06-命令模式command.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript设计模式/11-mediator.html" afterPath="$PROJECT_DIR$/javascript设计模式/05-观察者模式(发布-订阅模式)sub_pub.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript设计模式/12-decorator.html" afterPath="$PROJECT_DIR$/javascript设计模式/04-迭代器模式iterator.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript设计模式/13-state.html" afterPath="$PROJECT_DIR$/javascript设计模式/03-代理模式proxy.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript设计模式/14-adaptor.html" afterPath="$PROJECT_DIR$/javascript设计模式/02-策略模式strategy.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javascript设计模式/00-高阶函数实现AOP.js" afterPath="$PROJECT_DIR$/javascript设计模式/00-高阶函数实现AOP.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="前端知识学习.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -40,34 +24,18 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="00-高阶函数与柯里化Currying.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/javascript设计模式/00-高阶函数与柯里化Currying.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
-              <caret line="114" column="62" selection-start-line="114" selection-start-column="62" selection-end-line="114" selection-end-column="62" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
+            <state />
           </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="00-函数节流throttle与防抖debounce.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/javascript设计模式/00-函数节流throttle与防抖debounce.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1613">
-              <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="01-函数节流-throttle.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/前端优质题目/01-函数节流-throttle.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="15" column="17" selection-start-line="0" selection-start-column="0" selection-end-line="93" selection-end-column="7" />
-              <folding />
+          <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="242">
+                <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -88,7 +56,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/design_pattern/14-adaptor.html" />
         <option value="$PROJECT_DIR$/design_pattern/00-高阶函数实现AOP.html" />
         <option value="$PROJECT_DIR$/design_pattern/15-设计原则与编程技巧.html" />
         <option value="$PROJECT_DIR$/algorithms2/00-需要非常熟练掌握的数据结构.html" />
@@ -120,7 +87,6 @@
         <option value="$PROJECT_DIR$/mongodb/17-服务器管理与监控.md" />
         <option value="$PROJECT_DIR$/mongodb/18-MongoDB监控与备份.md" />
         <option value="$PROJECT_DIR$/前端优质知识点总结.md" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/javascript函数式编程/01-一些例子.js" />
         <option value="$PROJECT_DIR$/javascript函数式编程/03-变量的作用域和闭包.js" />
         <option value="$PROJECT_DIR$/javascript函数式编程/02-一等函数与Applicative编程.js" />
@@ -139,6 +105,8 @@
         <option value="$PROJECT_DIR$/javascript设计模式/00-高阶函数与柯里化Currying.js" />
         <option value="$PROJECT_DIR$/javascript设计模式/00-函数节流throttle与防抖debounce.js" />
         <option value="$PROJECT_DIR$/javascript设计模式/00-函数节流throttle与防抖debounce.html" />
+        <option value="$PROJECT_DIR$/MarkDown语法学习.md" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -195,34 +163,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="前端知识学习" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="前端知识学习" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="前端优质题目" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="前端知识学习" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="前端知识学习" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="javascript设计模式" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -241,12 +181,13 @@
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/其他" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/其他" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/algorithms" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/其他" />
     </key>
   </component>
   <component name="RunManager" selected="Node.js.00-高阶函数与柯里化Currying.js">
@@ -340,12 +281,12 @@
       <workItem from="1467160866962" duration="627000" />
       <workItem from="1467161661034" duration="2508000" />
       <workItem from="1467164244137" duration="29086000" />
-      <workItem from="1467266405310" duration="12698000" />
+      <workItem from="1467266405310" duration="13175000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51620000" />
+    <option name="totallyTimeSpent" value="52097000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -387,13 +328,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/javascript设计模式/07-组合模式component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/javascript设计模式/08-模板方法模式templateMethod.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
@@ -729,20 +663,6 @@
     <entry file="file://$PROJECT_DIR$/mongodb学习(待完成).md" />
     <entry file="file://$PROJECT_DIR$/前端优质知识点总结.md" />
     <entry file="file://$PROJECT_DIR$/javascript设计模式学习笔记.md" />
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="198">
-            <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/javascript函数式编程/01-简介.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="548">
@@ -847,16 +767,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/javascript设计模式/00-高阶函数与柯里化Currying.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="114" column="62" selection-start-line="114" selection-start-column="62" selection-end-line="114" selection-end-column="62" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/前端优质题目/01-函数节流-throttle.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -870,6 +780,44 @@
         <state relative-caret-position="-1613">
           <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript设计模式/00-高阶函数与柯里化Currying.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="114" column="62" selection-start-line="114" selection-start-column="62" selection-end-line="114" selection-end-column="62" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MarkDown语法指南.md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="515">
+            <caret line="333" column="0" selection-start-line="333" selection-start-column="0" selection-end-line="333" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="242">
+            <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
