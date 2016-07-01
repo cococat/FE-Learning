@@ -6,11 +6,15 @@
 
 /***
  * 使用高阶函数实现AOP
+ * 使用AOP动态给函数添加功能,这在js中非常方便,特别适用于装饰者模式!
  * */
 
 Function.prototype.before = function (beforeFn) {
     var self = this;
     return function () {  //返回包含了原函数和新函数的"代理函数"
+        // beforeFn(arguments);
+        // self(arguments);
+
         beforeFn.apply(this, arguments);
         return self.apply(this, arguments);
     }
