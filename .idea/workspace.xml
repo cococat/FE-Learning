@@ -2,7 +2,46 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javascript设计模式/02-策略模式strategy.js" afterPath="$PROJECT_DIR$/javascript设计模式/02-策略模式strategy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MongoDB笔记/01-MongoDB基础.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MongoDB笔记/02-常用命令,善用帮助文档.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MongoDB笔记/03-学习过程中使用的数据库.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MongoDB笔记/04-文档插入与删除.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MongoDB笔记/05-文档更新(重要).md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MongoDB笔记/06-文档查询.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MongoDB笔记/07-索引.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MongoDB笔记/08-特殊索引和集合.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MongoDB笔记/09-聚合(重要!!!).md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MongoDB笔记/10-聚合(mapReduce!!!).md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MongoDB笔记/11-应用程序设计.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MongoDB笔记/12-副本集.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MongoDB笔记/13-分片与集群.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MongoDB笔记/14-应用管理.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MongoDB笔记/15-数据管理.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MongoDB笔记/16-持久性.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MongoDB笔记/17-服务器管理.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MongoDB笔记/18-MongoDB监控与备份.md" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mongodb/01-MongoDB基础.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mongodb/02-常用命令,善用帮助文档.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mongodb/03-学习过程中使用的数据库.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mongodb/04-文档插入与删除.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mongodb/05-文档更新(重要).md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mongodb/06-文档查询.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mongodb/07-索引.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mongodb/08-特殊索引和集合.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mongodb/09-聚合(重要!!!).md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mongodb/10-聚合(mapReduce!!!).md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mongodb/11-应用程序设计.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mongodb/12-副本集.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mongodb/13-分片与集群.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mongodb/14-应用管理.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mongodb/15-数据管理.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mongodb/16-持久性.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mongodb/17-服务器管理.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mongodb/18-MongoDB监控与备份.md" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/算法与数据结构(剑指Offer)/00-需要非常熟练掌握的数据结构.html" afterPath="$PROJECT_DIR$/算法与数据结构(自己整理)/00-需要非常熟练掌握的数据结构.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/算法与数据结构(剑指Offer)/01-singleton.java" afterPath="$PROJECT_DIR$/算法与数据结构(自己整理)/01-singleton.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/算法与数据结构(剑指Offer)/01-singleton.js" afterPath="$PROJECT_DIR$/算法与数据结构(自己整理)/01-singleton.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="前端知识学习.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,7 +62,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="02-策略模式strategy.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="02-策略模式strategy.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/javascript设计模式/02-策略模式strategy.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="397">
@@ -31,6 +70,22 @@
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider editor-type-id="MarkdownFxPreviewEditor">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="242">
+                <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -158,20 +213,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="前端知识学习" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="前端知识学习" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="javascript设计模式" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -290,18 +331,18 @@
       <workItem from="1467160866962" duration="627000" />
       <workItem from="1467161661034" duration="2508000" />
       <workItem from="1467164244137" duration="29086000" />
-      <workItem from="1467266405310" duration="16996000" />
+      <workItem from="1467266405310" duration="17170000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55918000" />
+    <option name="totallyTimeSpent" value="56092000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30897537" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30897537" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -387,14 +428,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/javascript算法与数据结构学习(Part2).md" />
-    <entry file="file://$PROJECT_DIR$/算法与数据结构(剑指Offer)/00-需要非常熟练掌握的数据结构.html">
+    <entry file="file://$PROJECT_DIR$/算法与数据结构(自己整理)/00-需要非常熟练掌握的数据结构.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
           <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MongoDB/01-MongoDB基础.md">
+    <entry file="file://$PROJECT_DIR$/MongoDB笔记/01-MongoDB基础.md">
       <provider editor-type-id="MarkdownFxPreviewEditor">
         <state />
       </provider>
@@ -408,7 +449,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MongoDB/02-常用命令,善用帮助文档.md">
+    <entry file="file://$PROJECT_DIR$/MongoDB笔记/02-常用命令,善用帮助文档.md">
       <provider editor-type-id="MarkdownFxPreviewEditor">
         <state />
       </provider>
@@ -422,7 +463,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MongoDB/03-学习过程中使用的数据库.md">
+    <entry file="file://$PROJECT_DIR$/MongoDB笔记/03-学习过程中使用的数据库.md">
       <provider editor-type-id="MarkdownFxPreviewEditor">
         <state />
       </provider>
@@ -436,7 +477,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MongoDB/04-文档插入与删除.md">
+    <entry file="file://$PROJECT_DIR$/MongoDB笔记/04-文档插入与删除.md">
       <provider editor-type-id="MarkdownFxPreviewEditor">
         <state />
       </provider>
@@ -450,7 +491,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MongoDB/05-文档更新(重要).md">
+    <entry file="file://$PROJECT_DIR$/MongoDB笔记/05-文档更新(重要).md">
       <provider editor-type-id="MarkdownFxPreviewEditor">
         <state />
       </provider>
@@ -464,7 +505,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MongoDB/06-文档查询.md">
+    <entry file="file://$PROJECT_DIR$/MongoDB笔记/06-文档查询.md">
       <provider editor-type-id="MarkdownFxPreviewEditor">
         <state />
       </provider>
@@ -478,7 +519,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MongoDB/07-索引.md">
+    <entry file="file://$PROJECT_DIR$/MongoDB笔记/07-索引.md">
       <provider editor-type-id="MarkdownFxPreviewEditor">
         <state />
       </provider>
@@ -492,7 +533,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MongoDB/08-特殊索引和集合.md">
+    <entry file="file://$PROJECT_DIR$/MongoDB笔记/08-特殊索引和集合.md">
       <provider editor-type-id="MarkdownFxPreviewEditor">
         <state />
       </provider>
@@ -506,7 +547,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MongoDB/09-聚合(重要!!!).md">
+    <entry file="file://$PROJECT_DIR$/MongoDB笔记/09-聚合(重要!!!).md">
       <provider editor-type-id="MarkdownFxPreviewEditor">
         <state />
       </provider>
@@ -528,7 +569,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MongoDB/10-聚合(mapReduce!!!).md">
+    <entry file="file://$PROJECT_DIR$/MongoDB笔记/10-聚合(mapReduce!!!).md">
       <provider editor-type-id="MarkdownFxPreviewEditor">
         <state />
       </provider>
@@ -542,7 +583,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MongoDB/12-副本集.md">
+    <entry file="file://$PROJECT_DIR$/MongoDB笔记/12-副本集.md">
       <provider editor-type-id="MarkdownFxPreviewEditor">
         <state />
       </provider>
@@ -556,7 +597,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MongoDB/11-应用程序设计.md">
+    <entry file="file://$PROJECT_DIR$/MongoDB笔记/11-应用程序设计.md">
       <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
         <state />
       </provider>
@@ -570,7 +611,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MongoDB/13-分片与集群.md">
+    <entry file="file://$PROJECT_DIR$/MongoDB笔记/13-分片与集群.md">
       <provider editor-type-id="MarkdownFxPreviewEditor">
         <state />
       </provider>
@@ -584,7 +625,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MongoDB/14-应用管理.md">
+    <entry file="file://$PROJECT_DIR$/MongoDB笔记/14-应用管理.md">
       <provider editor-type-id="MarkdownFxPreviewEditor">
         <state />
       </provider>
@@ -598,7 +639,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MongoDB/18-MongoDB监控与备份.md">
+    <entry file="file://$PROJECT_DIR$/MongoDB笔记/18-MongoDB监控与备份.md">
       <provider editor-type-id="MarkdownFxPreviewEditor">
         <state />
       </provider>
@@ -612,7 +653,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MongoDB/17-服务器管理.md">
+    <entry file="file://$PROJECT_DIR$/MongoDB笔记/17-服务器管理.md">
       <provider editor-type-id="MarkdownFxPreviewEditor">
         <state />
       </provider>
@@ -626,7 +667,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MongoDB/16-持久性.md">
+    <entry file="file://$PROJECT_DIR$/MongoDB笔记/16-持久性.md">
       <provider editor-type-id="MarkdownFxPreviewEditor">
         <state />
       </provider>
@@ -640,7 +681,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MongoDB/15-数据管理.md">
+    <entry file="file://$PROJECT_DIR$/MongoDB笔记/15-数据管理.md">
       <provider editor-type-id="MarkdownFxPreviewEditor">
         <state />
       </provider>
@@ -721,20 +762,6 @@
         <state relative-caret-position="330">
           <caret line="15" column="17" selection-start-line="0" selection-start-column="0" selection-end-line="93" selection-end-column="7" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="242">
-            <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-            <folding />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -831,6 +858,20 @@
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="242">
+            <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
