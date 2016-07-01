@@ -21,6 +21,7 @@ db.runCommand(
 );   
 
 ##### 例1:找出user集合中的所有键
+```
 db.runCommand({  
     mapreduce:'user',  
     map:function(){  
@@ -40,6 +41,7 @@ db.runCommand({
     out:'mr1_result'  
 })  
 db['mr1_result'].find()  
+```
 
 
 ### 2.聚合命令:为基本聚合任务提供的一些命令,复杂的group仍然要使用javascript
@@ -50,6 +52,7 @@ db.user.find().count()
 db.runCommand({distinct:'user',key:'name'})
 
 3. `group`:根据指定的键进行分组,再对各个分组内的文档进行聚合操作,最后得到结果文档(类似关系型数据库sql中的group by)   P150!!!
+```
 db.runCommand({  
     group:{  
         ns:'user',    //要操作的集合   
@@ -59,6 +62,7 @@ db.runCommand({
             prev.count++;  
         }  
     }  
-})  
+}) 
+```
 
 
