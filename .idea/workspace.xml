@@ -2,24 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/前端面试题目总结/08-什么是css-reset.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/前端面试题目总结/09-浮动的原理和工作方式,产生的影响.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/前端面试题目总结/10-CSS常用的选择器、计算权重、CSS性能.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/前端面试题目总结/11-Ajax实现原理.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/前端面试题目总结/12-跨域.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/前端面试题目总结/13-前端性能优化.md" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css学习总结/01-权重.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css学习总结/02-浮动的原理和产生的影响.html" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端优质题目/01-原型式继承与Object.create.js" afterPath="$PROJECT_DIR$/前端面试题目总结/01-原型式继承与Object.create.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端优质题目/02-this的四种用法.js" afterPath="$PROJECT_DIR$/前端面试题目总结/02-this的四种用法.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端优质题目/03-call、apply用法和bind实现.js" afterPath="$PROJECT_DIR$/前端面试题目总结/03-call、apply用法和bind实现.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端优质题目/04-闭包.js" afterPath="$PROJECT_DIR$/前端面试题目总结/04-闭包.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端优质题目/05-高阶函数与柯里化Currying.js" afterPath="$PROJECT_DIR$/前端面试题目总结/05-高阶函数与柯里化Currying.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端优质题目/06-高阶函数实现AOP.js" afterPath="$PROJECT_DIR$/前端面试题目总结/06-高阶函数实现AOP.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端优质题目/07-函数节流throttle与防抖debounce.html" afterPath="$PROJECT_DIR$/前端面试题目总结/07-函数节流throttle与防抖debounce.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/前端面试题目总结/14-缓存.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/前端面试题目总结/13-前端性能优化.md" afterPath="$PROJECT_DIR$/前端面试题目总结/13-前端性能优化.md" />
     </list>
     <ignored path="前端知识学习.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -60,8 +45,24 @@
         <entry file="file://$PROJECT_DIR$/前端面试题目总结/13-前端性能优化.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
+              <first_editor relative-caret-position="339">
+                <caret line="191" column="0" selection-start-line="191" selection-start-column="0" selection-end-line="191" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+          <provider editor-type-id="MarkdownFxPreviewEditor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="14-缓存.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/前端面试题目总结/14-缓存.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="FIRST">
               <first_editor relative-caret-position="0">
-                <caret line="0" column="30" selection-start-line="0" selection-start-column="30" selection-end-line="0" selection-end-column="30" />
+                <caret line="0" column="13" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -120,22 +121,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="08-什么是css-reset.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/前端面试题目总结/08-什么是css-reset.md">
-          <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="515">
-                <caret line="29" column="3" selection-start-line="29" selection-start-column="3" selection-end-line="29" selection-end-column="3" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-          <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
-            <state />
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -152,7 +137,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/mongodb/03-学习过程中使用的数据库.md" />
         <option value="$PROJECT_DIR$/mongodb/06-文档查询.md" />
         <option value="$PROJECT_DIR$/mongodb/09-聚合(重要!!!).md" />
         <option value="$PROJECT_DIR$/mongodb/12-副本集.md" />
@@ -202,6 +186,7 @@
         <option value="$PROJECT_DIR$/前端优质题目/08-什么是css-reset.js" />
         <option value="$PROJECT_DIR$/前端优质题目/08-什么是css-reset.md" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/前端面试题目总结/14-缓存.md" />
         <option value="$PROJECT_DIR$/前端面试题目总结/13-前端性能优化.md" />
       </list>
     </option>
@@ -393,18 +378,18 @@
       <workItem from="1467161661034" duration="2508000" />
       <workItem from="1467164244137" duration="29086000" />
       <workItem from="1467266405310" duration="19402000" />
-      <workItem from="1467596770940" duration="4244000" />
+      <workItem from="1467596770940" duration="5162000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="62568000" />
+    <option name="totallyTimeSpent" value="63486000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3208896" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0929309" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -440,7 +425,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/javascript设计模式学习笔记.md" />
     <entry file="file://$PROJECT_DIR$/javascript函数式编程/01-简介.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="548">
@@ -858,55 +842,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/前端面试题目总结/10-CSS常用的选择器、计算权重、CSS性能.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/前端面试题目总结/08-什么是css-reset.md">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="515">
-            <caret line="29" column="3" selection-start-line="29" selection-start-column="3" selection-end-line="29" selection-end-column="3" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/前端面试题目总结/11-Ajax实现原理.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/前端面试题目总结/12-跨域.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="0">
@@ -948,11 +884,73 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/前端面试题目总结/13-前端性能优化.md">
+    <entry file="file://$PROJECT_DIR$/前端面试题目总结/14-缓存.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="0">
-            <caret line="0" column="30" selection-start-line="0" selection-start-column="30" selection-end-line="0" selection-end-column="30" />
+            <caret line="0" column="13" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/前端面试题目总结/08-什么是css-reset.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="515">
+            <caret line="29" column="3" selection-start-line="29" selection-start-column="3" selection-end-line="29" selection-end-column="3" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/前端面试题目总结/10-CSS常用的选择器、计算权重、CSS性能.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/前端面试题目总结/12-跨域.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/前端面试题目总结/13-前端性能优化.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="339">
+            <caret line="191" column="0" selection-start-line="191" selection-start-column="0" selection-end-line="191" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
