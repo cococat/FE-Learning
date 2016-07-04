@@ -2,23 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端面试题目总结/00-javascript内存泄漏的4种情况.md" afterPath="$PROJECT_DIR$/前端优质知识点总结/00-javascript内存泄漏的4种情况.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端面试题目总结/01-原型式继承与Object.create.js" afterPath="$PROJECT_DIR$/前端优质知识点总结/01-原型式继承与Object.create.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端面试题目总结/02-this的四种用法.js" afterPath="$PROJECT_DIR$/前端优质知识点总结/02-this的四种用法.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端面试题目总结/03-call、apply用法和bind实现.js" afterPath="$PROJECT_DIR$/前端优质知识点总结/03-call、apply用法和bind实现.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端面试题目总结/04-闭包.js" afterPath="$PROJECT_DIR$/前端优质知识点总结/04-闭包.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端面试题目总结/05-高阶函数与柯里化Currying.js" afterPath="$PROJECT_DIR$/前端优质知识点总结/05-高阶函数与柯里化Currying.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端面试题目总结/06-高阶函数实现AOP.js" afterPath="$PROJECT_DIR$/前端优质知识点总结/06-高阶函数实现AOP.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端面试题目总结/07-函数节流throttle与防抖debounce.html" afterPath="$PROJECT_DIR$/前端优质知识点总结/07-函数节流throttle与防抖debounce.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端面试题目总结/08-什么是css-reset.md" afterPath="$PROJECT_DIR$/前端优质知识点总结/08-什么是css-reset.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端面试题目总结/09-浮动的原理和工作方式,产生的影响.md" afterPath="$PROJECT_DIR$/前端优质知识点总结/09-浮动的原理和工作方式,产生的影响.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端面试题目总结/10-CSS常用的选择器、计算权重、CSS性能.md" afterPath="$PROJECT_DIR$/前端优质知识点总结/10-CSS常用的选择器、计算权重、CSS性能.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端面试题目总结/11-Ajax实现原理.md" afterPath="$PROJECT_DIR$/前端优质知识点总结/11-Ajax实现原理.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端面试题目总结/12-跨域.md" afterPath="$PROJECT_DIR$/前端优质知识点总结/12-跨域.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端面试题目总结/13-前端性能优化.md" afterPath="$PROJECT_DIR$/前端优质知识点总结/13-前端性能优化.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端面试题目总结/14-缓存.md" afterPath="$PROJECT_DIR$/前端优质知识点总结/14-缓存.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端面试题目总结/15-XSS和CSRF.md" afterPath="$PROJECT_DIR$/前端优质知识点总结/15-XSS和CSRF.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端面试题目总结/16-CSS各种居中的方法.md" afterPath="$PROJECT_DIR$/前端优质知识点总结/16-CSS各种居中的方法.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/数据结构与算法javascript描述/01-栈的应用/01-数制转换.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/数据结构与算法javascript描述/01-栈的应用/02-判断回文数.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/数据结构与算法javascript描述/01-栈的应用/03-括号匹配检验.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/数据结构与算法javascript描述/01-栈的应用/04-表达式求值.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/数据结构与算法javascript描述/01-栈的应用/05-两个栈实现队列.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/数据结构与算法javascript描述/02-队列的应用/01-实现双向队列.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/数据结构与算法javascript描述/02-队列的应用/02-使用两个队列实现栈.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/数据结构与算法javascript描述/data-structures/01_List.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/数据结构与算法javascript描述/data-structures/02_Stack.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/数据结构与算法javascript描述/data-structures/03_Queue.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/数据结构与算法javascript描述/data-structures/04-LinkedList.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/数据结构与算法javascript描述/data-structures/05-Dictionary.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/数据结构与算法javascript描述/data-structures/06-HashTable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/数据结构与算法javascript描述/data-structures/07-Set.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/数据结构与算法javascript描述/data-structures/08-BinaryTree.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/数据结构与算法javascript描述/data-structures/09-BinarySeachTree.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/数据结构与算法javascript描述/data-structures/10-Graph.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="前端知识学习.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -39,19 +40,103 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="16-CSS各种居中的方法.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/前端优质知识点总结/16-CSS各种居中的方法.md">
-          <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="110">
-                <caret line="58" column="0" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="3" />
-                <folding />
-              </first_editor>
-              <second_editor />
+      <file leaf-file-name="05-两个栈实现队列.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/数据结构与算法javascript描述/01-栈的应用/05-两个栈实现队列.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
-          <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
-            <state />
+        </entry>
+      </file>
+      <file leaf-file-name="01-实现双向队列.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/数据结构与算法javascript描述/02-队列的应用/01-实现双向队列.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="02-使用两个队列实现栈.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/数据结构与算法javascript描述/02-队列的应用/02-使用两个队列实现栈.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="04-LinkedList.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/数据结构与算法javascript描述/data-structures/04-LinkedList.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="05-Dictionary.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/数据结构与算法javascript描述/data-structures/05-Dictionary.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="06-HashTable.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/数据结构与算法javascript描述/data-structures/06-HashTable.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="07-Set.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/数据结构与算法javascript描述/data-structures/07-Set.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="08-BinaryTree.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/数据结构与算法javascript描述/data-structures/08-BinaryTree.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="09-BinarySeachTree.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/数据结构与算法javascript描述/data-structures/09-BinarySeachTree.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="10-Graph.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/数据结构与算法javascript描述/data-structures/10-Graph.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
@@ -71,26 +156,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/mongodb/13-分片.md" />
-        <option value="$PROJECT_DIR$/mongodb/11-应用程序设计.md" />
-        <option value="$PROJECT_DIR$/mongodb/13-分片与集群.md" />
-        <option value="$PROJECT_DIR$/mongodb/14-应用管理.md" />
-        <option value="$PROJECT_DIR$/mongodb/15-数据管理.md" />
-        <option value="$PROJECT_DIR$/mongodb/16-持久性.md" />
-        <option value="$PROJECT_DIR$/mongodb/17-服务器管理与监控.md" />
-        <option value="$PROJECT_DIR$/mongodb/18-MongoDB监控与备份.md" />
-        <option value="$PROJECT_DIR$/前端优质知识点总结.md" />
-        <option value="$PROJECT_DIR$/javascript函数式编程/01-一些例子.js" />
-        <option value="$PROJECT_DIR$/javascript函数式编程/03-变量的作用域和闭包.js" />
-        <option value="$PROJECT_DIR$/javascript函数式编程/02-一等函数与Applicative编程.js" />
-        <option value="$PROJECT_DIR$/javascript函数式编程/03-变量的作用域和闭包,bind函数.js" />
-        <option value="$PROJECT_DIR$/javascript函数式编程/04-高阶函数.js" />
-        <option value="$PROJECT_DIR$/javascript函数式编程/05-由函数构建函数.js" />
-        <option value="$PROJECT_DIR$/javascript函数式编程/05-由函数构建函数、柯里化.js" />
-        <option value="$PROJECT_DIR$/javascript函数式编程/06-递归.js" />
-        <option value="$PROJECT_DIR$/javascript设计模式/001-简介与原型死继承.js" />
-        <option value="$PROJECT_DIR$/javascript设计模式/00-简介与原型式继承.js" />
-        <option value="$PROJECT_DIR$/javascript设计模式/00-简介、原型式继承与Object.create.js" />
         <option value="$PROJECT_DIR$/javascript设计模式/00-this,call,apply,bind.js" />
         <option value="$PROJECT_DIR$/javascript设计模式/00-call、apply用法和bind实现.js" />
         <option value="$PROJECT_DIR$/javascript设计模式/00-闭包与高阶函数、AOP.js" />
@@ -122,6 +187,26 @@
         <option value="$PROJECT_DIR$/前端面试题目总结/00-javascript内存泄漏的4种情况.md" />
         <option value="$PROJECT_DIR$/前端面试题目总结/12-跨域.md" />
         <option value="$PROJECT_DIR$/前端面试题目总结/16-CSS各种居中的方法.md" />
+        <option value="$PROJECT_DIR$/数据结构与算法javascript描述/01-列表.js" />
+        <option value="$PROJECT_DIR$/数据结构与算法javascript描述/02-栈.js" />
+        <option value="$PROJECT_DIR$/数据结构与算法javascript描述/02-1- 数制转换.js" />
+        <option value="$PROJECT_DIR$/数据结构与算法javascript描述/04-判断回文数.js" />
+        <option value="$PROJECT_DIR$/数据结构与算法javascript描述/03-括号匹配检验.js" />
+        <option value="$PROJECT_DIR$/数据结构与算法javascript描述/数据结构实现/List.js" />
+        <option value="$PROJECT_DIR$/数据结构与算法javascript描述/数据结构实现/Stack.js" />
+        <option value="$PROJECT_DIR$/数据结构与算法javascript描述/04-表达式求值.js" />
+        <option value="$PROJECT_DIR$/数据结构与算法javascript描述/data-structures/Queue.js" />
+        <option value="$PROJECT_DIR$/数据结构与算法javascript描述/data-structures/03_Queue.js" />
+        <option value="$PROJECT_DIR$/数据结构与算法javascript描述/01-栈的应用/05-两个栈实现队列.js" />
+        <option value="$PROJECT_DIR$/数据结构与算法javascript描述/02-队列的应用/01-实现双向队列.js" />
+        <option value="$PROJECT_DIR$/数据结构与算法javascript描述/02-队列的应用/02-使用两个队列实现栈.js" />
+        <option value="$PROJECT_DIR$/数据结构与算法javascript描述/data-structures/04-LinkedList.js" />
+        <option value="$PROJECT_DIR$/数据结构与算法javascript描述/data-structures/05-Dictionary.js" />
+        <option value="$PROJECT_DIR$/数据结构与算法javascript描述/data-structures/06-HashTable.js" />
+        <option value="$PROJECT_DIR$/数据结构与算法javascript描述/data-structures/07-Set.js" />
+        <option value="$PROJECT_DIR$/数据结构与算法javascript描述/data-structures/08-BinaryTree.js" />
+        <option value="$PROJECT_DIR$/数据结构与算法javascript描述/data-structures/09-BinarySeachTree.js" />
+        <option value="$PROJECT_DIR$/数据结构与算法javascript描述/data-structures/10-Graph.js" />
       </list>
     </option>
   </component>
@@ -160,6 +245,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -179,15 +265,28 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="前端知识学习" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="前端知识学习" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="数据结构与算法javascript描述" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="Settings.JavaScript.Linters.JSLint" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../meet_you/meiyou.wx.jaeapp.com/branches/branch-newzijian1.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
@@ -196,23 +295,19 @@
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/数据结构与算法javascript描述/01-栈的应用" />
+      <recent name="$PROJECT_DIR$/数据结构与算法javascript描述/数据结构实现" />
+      <recent name="$PROJECT_DIR$/其他" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/前端优质题目" />
       <recent name="$PROJECT_DIR$/其他" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/algorithms" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/其他" />
-    </key>
   </component>
-  <component name="RunManager" selected="Node.js.05-观察者模式(发布-订阅模式)sub_pub.js">
-    <configuration default="false" name="00-高阶函数与柯里化Currying.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="00-高阶函数与柯里化Currying.js" working-dir="$PROJECT_DIR$/javascript设计模式">
-      <method />
-    </configuration>
-    <configuration default="false" name="02-策略模式strategy.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="02-策略模式strategy.js" working-dir="$PROJECT_DIR$/javascript设计模式">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Node.js.Stack.js">
     <configuration default="false" name="03-代理模式proxy.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="03-代理模式proxy.js" working-dir="$PROJECT_DIR$/javascript设计模式">
       <method />
     </configuration>
@@ -220,6 +315,12 @@
       <method />
     </configuration>
     <configuration default="false" name="05-观察者模式(发布-订阅模式)sub_pub.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="05-观察者模式(发布-订阅模式)sub_pub.js" working-dir="$PROJECT_DIR$/javascript设计模式">
+      <method />
+    </configuration>
+    <configuration default="false" name="01-列表.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/数据结构与算法javascript描述/data-structures/01_List.js" working-dir="$PROJECT_DIR$/数据结构与算法javascript描述">
+      <method />
+    </configuration>
+    <configuration default="false" name="Stack.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/数据结构与算法javascript描述/data-structures/02_Stack.js" working-dir="$PROJECT_DIR$/数据结构与算法javascript描述/data-structures">
       <method />
     </configuration>
     <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
@@ -264,19 +365,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.00-高阶函数与柯里化Currying.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.02-策略模式strategy.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.03-代理模式proxy.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.04-迭代器模式iterator.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.05-观察者模式(发布-订阅模式)sub_pub.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.03-代理模式proxy.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.04-迭代器模式iterator.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.05-观察者模式(发布-订阅模式)sub_pub.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.01-列表.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.Stack.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.05-观察者模式(发布-订阅模式)sub_pub.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.04-迭代器模式iterator.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.03-代理模式proxy.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.02-策略模式strategy.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.00-高阶函数与柯里化Currying.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.Stack.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.01-列表.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.05-观察者模式(发布-订阅模式)sub_pub.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.04-迭代器模式iterator.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.03-代理模式proxy.js" />
       </list>
     </recent_temporary>
   </component>
@@ -298,22 +399,23 @@
       <workItem from="1467161661034" duration="2508000" />
       <workItem from="1467164244137" duration="29086000" />
       <workItem from="1467266405310" duration="19402000" />
-      <workItem from="1467596770940" duration="7676000" />
+      <workItem from="1467596770940" duration="8125000" />
+      <workItem from="1467621362438" duration="2070000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="66000000" />
+    <option name="totallyTimeSpent" value="68519000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24305004" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27958697" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30821916" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30737704" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
@@ -345,236 +447,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/javascript函数式编程/04-高阶函数.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javascript函数式编程/02-一等函数与Applicative编程.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="78" column="19" selection-start-line="78" selection-start-column="19" selection-end-line="78" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javascript函数式编程/03-变量的作用域和闭包,bind函数.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="834">
-          <caret line="67" column="30" selection-start-line="67" selection-start-column="30" selection-end-line="67" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javascript设计模式/00-闭包与高阶函数.html" />
-    <entry file="file://$PROJECT_DIR$/javascript设计模式/00-call、apply用法和bind实现.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="19" column="40" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javascript设计模式/00-this的四种用法.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="526">
-          <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javascript设计模式/00-函数节流throttle与防抖debounce.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javascript设计模式/00-简介、原型式继承与Object.create.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javascript设计模式/00-闭包.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-530">
-          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javascript设计模式/00-高阶函数与柯里化Currying.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2508">
-          <caret line="114" column="62" selection-start-line="114" selection-start-column="62" selection-end-line="114" selection-end-column="62" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javascript设计模式/00-高阶函数实现AOP.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-24">
-          <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javascript设计模式/01-单例模式singleton.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MarkDown语法指南.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="308">
-            <caret line="14" column="11" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="11" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MongoDB笔记/01-MongoDB基础.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="550">
-            <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javascript设计模式/02-策略模式strategy.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="397">
-          <caret line="140" column="47" selection-start-line="140" selection-start-column="47" selection-end-line="140" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MongoDB笔记/02-常用命令,善用帮助文档.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="176">
-            <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MongoDB笔记/03-学习过程中使用的数据库.md">
-      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="1320">
-            <caret line="60" column="3" selection-start-line="60" selection-start-column="3" selection-end-line="60" selection-end-column="3" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MongoDB笔记/04-文档插入与删除.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="66">
-            <caret line="3" column="85" selection-start-line="3" selection-start-column="85" selection-end-line="3" selection-end-column="85" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MongoDB笔记/05-文档更新(重要).md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="1342">
-            <caret line="61" column="44" selection-start-line="61" selection-start-column="44" selection-end-line="61" selection-end-column="44" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MongoDB笔记/06-文档查询.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="34">
-            <caret line="86" column="5" selection-start-line="86" selection-start-column="5" selection-end-line="86" selection-end-column="5" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MongoDB笔记/07-索引.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="13" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MongoDB笔记/08-特殊索引和集合.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="19" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MongoDB笔记/09-聚合(重要!!!).md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="-10">
-            <caret line="54" column="3" selection-start-line="54" selection-start-column="3" selection-end-line="54" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/MongoDB笔记/10-聚合(mapReduce!!!).md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
@@ -681,13 +553,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/javascript设计模式/03-代理模式proxy.html" />
-    <entry file="file://$PROJECT_DIR$/前端优质知识点总结/07-函数节流throttle与防抖debounce.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1980">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/前端优质题目/01-函数节流-throttle.html" />
     <entry file="file://$PROJECT_DIR$/javascript设计模式/03-代理模式proxy.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -700,7 +565,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="484">
           <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -712,14 +576,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css学习总结/01-权重.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/css学习总结/01-权重.html" />
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
@@ -728,19 +585,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css学习总结/02-浮动的原理和产生的影响.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/前端优质知识点总结/11-Ajax实现原理.md">
+    <entry file="file://$PROJECT_DIR$/css学习总结/02-浮动的原理和产生的影响.html" />
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <first_editor relative-caret-position="242">
+            <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
             <folding />
           </first_editor>
           <second_editor />
@@ -750,11 +600,83 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/前端优质知识点总结/00-javascript内存泄漏的4种情况.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="242">
-            <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+          <first_editor relative-caret-position="317">
+            <caret line="29" column="6" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/前端优质知识点总结/01-原型式继承与Object.create.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/前端优质知识点总结/02-this的四种用法.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-112">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/前端优质知识点总结/03-call、apply用法和bind实现.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-156">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/前端优质知识点总结/04-闭包.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-728">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/前端优质知识点总结/05-高阶函数与柯里化Currying.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2026">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/前端优质知识点总结/06-高阶函数实现AOP.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-244">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/前端优质知识点总结/07-函数节流throttle与防抖debounce.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1899">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/前端优质知识点总结/08-什么是css-reset.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="515">
+            <caret line="29" column="3" selection-start-line="29" selection-start-column="3" selection-end-line="29" selection-end-column="3" />
             <folding />
           </first_editor>
           <second_editor />
@@ -778,26 +700,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/前端优质知识点总结/08-什么是css-reset.md">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="515">
-            <caret line="29" column="3" selection-start-line="29" selection-start-column="3" selection-end-line="29" selection-end-column="3" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/前端优质知识点总结/10-CSS常用的选择器、计算权重、CSS性能.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
@@ -809,6 +711,34 @@
         </state>
       </provider>
       <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/前端优质知识点总结/11-Ajax实现原理.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/前端优质知识点总结/12-跨域.md">
+      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="515">
+            <caret line="256" column="16" selection-start-line="256" selection-start-column="16" selection-end-line="256" selection-end-column="16" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
         <state />
       </provider>
     </entry>
@@ -840,20 +770,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/前端优质知识点总结/00-javascript内存泄漏的4种情况.md">
-      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="317">
-            <caret line="29" column="6" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="6" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/前端优质知识点总结/15-XSS和CSRF.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
@@ -868,11 +784,11 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/前端优质知识点总结/12-跨域.md">
+    <entry file="file://$PROJECT_DIR$/前端优质知识点总结/16-CSS各种居中的方法.md">
       <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="515">
-            <caret line="256" column="16" selection-start-line="256" selection-start-column="16" selection-end-line="256" selection-end-column="16" />
+          <first_editor relative-caret-position="-836">
+            <caret line="58" column="0" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="3" />
             <folding />
           </first_editor>
           <second_editor />
@@ -882,18 +798,140 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/前端优质知识点总结/16-CSS各种居中的方法.md">
-      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="110">
-            <caret line="58" column="0" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="3" />
-            <folding />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/数据结构与算法javascript描述/01-栈的应用/01-数制转换.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
-      <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
-        <state />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据结构与算法javascript描述/01-栈的应用/02-判断回文数.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据结构与算法javascript描述/01-栈的应用/03-括号匹配检验.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据结构与算法javascript描述/data-structures/01_List.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="42" column="19" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据结构与算法javascript描述/data-structures/02_Stack.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据结构与算法javascript描述/01-栈的应用/04-表达式求值.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据结构与算法javascript描述/data-structures/03_Queue.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据结构与算法javascript描述/01-栈的应用/05-两个栈实现队列.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据结构与算法javascript描述/02-队列的应用/01-实现双向队列.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据结构与算法javascript描述/02-队列的应用/02-使用两个队列实现栈.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据结构与算法javascript描述/data-structures/04-LinkedList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据结构与算法javascript描述/data-structures/05-Dictionary.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据结构与算法javascript描述/data-structures/06-HashTable.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据结构与算法javascript描述/data-structures/07-Set.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据结构与算法javascript描述/data-structures/08-BinaryTree.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据结构与算法javascript描述/data-structures/09-BinarySeachTree.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据结构与算法javascript描述/data-structures/10-Graph.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
       </provider>
     </entry>
   </component>
