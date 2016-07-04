@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/前端优质题目/01-原型式继承与Object.create.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/前端优质题目/02-this的四种用法.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/前端优质题目/03-call、apply用法和bind实现.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/前端优质题目/04-闭包.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/前端优质题目/05-高阶函数与柯里化Currying.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/前端优质题目/06-高阶函数实现AOP.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端优质题目/01-函数节流-throttle.html" afterPath="$PROJECT_DIR$/前端优质题目/07-函数节流throttle与防抖debounce.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascript设计模式/05-观察者模式(发布-订阅模式)sub_pub.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/javascript设计模式/04-迭代器模式iterator.html" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript设计模式/05-观察者模式(发布-订阅模式)sub_pub.html" afterPath="$PROJECT_DIR$/javascript设计模式/04-迭代器模式iterator.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="前端知识学习.iws" />
@@ -29,7 +25,18 @@
     <favorites_list name="前端知识学习" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file leaf-file-name="05-观察者模式(发布-订阅模式)sub_pub.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/javascript设计模式/05-观察者模式(发布-订阅模式)sub_pub.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="548">
+              <caret line="72" column="42" selection-start-line="72" selection-start-column="42" selection-end-line="72" selection-end-column="42" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -45,9 +52,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/mongodb/01-MongoDB简介.md" />
-        <option value="$PROJECT_DIR$/mongodb/01-MongoDB基础.md" />
-        <option value="$PROJECT_DIR$/mongodb/02-常用命令,善用帮助文档.md" />
         <option value="$PROJECT_DIR$/mongodb/04-插入数据insert.md" />
         <option value="$PROJECT_DIR$/mongodb/04-文档插入与删除.md" />
         <option value="$PROJECT_DIR$/mongodb/05-文档更新(重要).md" />
@@ -96,6 +100,9 @@
         <option value="$PROJECT_DIR$/javascript设计模式/03-代理模式proxy.html" />
         <option value="$PROJECT_DIR$/javascript设计模式/03-代理模式.js" />
         <option value="$PROJECT_DIR$/javascript设计模式/03-代理模式proxy.js" />
+        <option value="$PROJECT_DIR$/javascript设计模式/04-迭代器模式iterator.js" />
+        <option value="$PROJECT_DIR$/javascript设计模式/05-观察者模式(发布-订阅模式)sub_pub.html" />
+        <option value="$PROJECT_DIR$/javascript设计模式/05-观察者模式(发布-订阅模式)sub_pub.js" />
       </list>
     </option>
   </component>
@@ -134,6 +141,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -162,13 +170,12 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="前端优质题目" />
+              <option name="myItemId" value="javascript设计模式" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -194,13 +201,7 @@
       <recent name="$PROJECT_DIR$/其他" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.03-代理模式proxy.js">
-    <configuration default="false" name="00-闭包与高阶函数、AOP.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/javascript设计模式/00-闭包.js" working-dir="$PROJECT_DIR$/javascript设计模式">
-      <method />
-    </configuration>
-    <configuration default="false" name="00-高阶函数实现AOP.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="00-高阶函数实现AOP.js" working-dir="$PROJECT_DIR$/javascript设计模式">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Node.js.05-观察者模式(发布-订阅模式)sub_pub.js">
     <configuration default="false" name="00-高阶函数与柯里化Currying.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="00-高阶函数与柯里化Currying.js" working-dir="$PROJECT_DIR$/javascript设计模式">
       <method />
     </configuration>
@@ -208,6 +209,12 @@
       <method />
     </configuration>
     <configuration default="false" name="03-代理模式proxy.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="03-代理模式proxy.js" working-dir="$PROJECT_DIR$/javascript设计模式">
+      <method />
+    </configuration>
+    <configuration default="false" name="04-迭代器模式iterator.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="04-迭代器模式iterator.js" working-dir="$PROJECT_DIR$/javascript设计模式">
+      <method />
+    </configuration>
+    <configuration default="false" name="05-观察者模式(发布-订阅模式)sub_pub.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="05-观察者模式(发布-订阅模式)sub_pub.js" working-dir="$PROJECT_DIR$/javascript设计模式">
       <method />
     </configuration>
     <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
@@ -252,19 +259,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.00-闭包与高阶函数、AOP.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.00-高阶函数实现AOP.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.00-高阶函数与柯里化Currying.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.02-策略模式strategy.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.03-代理模式proxy.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.00-高阶函数与柯里化Currying.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.02-策略模式strategy.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.03-代理模式proxy.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.04-迭代器模式iterator.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.05-观察者模式(发布-订阅模式)sub_pub.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.03-代理模式proxy.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.02-策略模式strategy.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.00-高阶函数与柯里化Currying.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.00-高阶函数实现AOP.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.00-闭包与高阶函数、AOP.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.05-观察者模式(发布-订阅模式)sub_pub.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.04-迭代器模式iterator.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.03-代理模式proxy.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.02-策略模式strategy.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.00-高阶函数与柯里化Currying.js" />
       </list>
     </recent_temporary>
   </component>
@@ -285,22 +292,23 @@
       <workItem from="1467160866962" duration="627000" />
       <workItem from="1467161661034" duration="2508000" />
       <workItem from="1467164244137" duration="29086000" />
-      <workItem from="1467266405310" duration="19204000" />
+      <workItem from="1467266405310" duration="19402000" />
+      <workItem from="1467596770940" duration="2787000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58126000" />
+    <option name="totallyTimeSpent" value="61111000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30897537" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28435266" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20684932" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30821916" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
@@ -332,27 +340,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/javascript设计模式/13-状态模式state.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javascript设计模式/14-适配器模式adaptor.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javascript设计模式/00-高阶函数实现AOP.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript设计模式/00-高阶函数实现AOP.html" />
     <entry file="file://$PROJECT_DIR$/javascript设计模式/15-设计原则与编程技巧.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
@@ -377,17 +365,16 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MongoDB笔记/17-服务器管理.md">
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="0">
             <caret line="0" column="9" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/javascript算法与数据结构学习(Part1-LeetCode).md" />
@@ -444,14 +431,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/javascript设计模式/00-闭包与高阶函数.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript设计模式/00-闭包与高阶函数.html" />
     <entry file="file://$PROJECT_DIR$/javascript设计模式/00-call、apply用法和bind实现.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="262">
@@ -464,9 +444,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="526">
           <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -474,7 +451,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
           <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -510,9 +486,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-24">
           <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -520,80 +493,69 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
           <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MarkDown语法指南.md">
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="308">
             <caret line="14" column="11" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="11" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MongoDB笔记/01-MongoDB基础.md">
       <provider editor-type-id="MarkdownFxPreviewEditor">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MongoDB笔记/01-MongoDB基础.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="550">
             <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
       <provider editor-type-id="MarkdownFxPreviewEditor">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="242">
             <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/javascript设计模式/02-策略模式strategy.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="397">
           <caret line="140" column="47" selection-start-line="140" selection-start-column="47" selection-end-line="140" selection-end-column="47" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MongoDB笔记/02-常用命令,善用帮助文档.md">
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="176">
             <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MongoDB笔记/03-学习过程中使用的数据库.md">
-      <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MongoDB笔记/03-学习过程中使用的数据库.md">
       <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="1320">
@@ -603,11 +565,11 @@
           <second_editor />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MongoDB笔记/04-文档插入与删除.md">
-      <provider editor-type-id="MarkdownFxPreviewEditor">
+      <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MongoDB笔记/04-文档插入与删除.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="66">
@@ -617,11 +579,11 @@
           <second_editor />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MongoDB笔记/05-文档更新(重要).md">
       <provider editor-type-id="MarkdownFxPreviewEditor">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MongoDB笔记/05-文档更新(重要).md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="1342">
@@ -631,11 +593,11 @@
           <second_editor />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MongoDB笔记/06-文档查询.md">
       <provider editor-type-id="MarkdownFxPreviewEditor">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MongoDB笔记/06-文档查询.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="34">
@@ -645,53 +607,50 @@
           <second_editor />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MongoDB笔记/07-索引.md">
       <provider editor-type-id="MarkdownFxPreviewEditor">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MongoDB笔记/07-索引.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="0">
             <caret line="0" column="13" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MongoDB笔记/08-特殊索引和集合.md">
       <provider editor-type-id="MarkdownFxPreviewEditor">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MongoDB笔记/08-特殊索引和集合.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="0">
             <caret line="0" column="19" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MongoDB笔记/09-聚合(重要!!!).md">
       <provider editor-type-id="MarkdownFxPreviewEditor">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MongoDB笔记/09-聚合(重要!!!).md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="-10">
             <caret line="54" column="3" selection-start-line="54" selection-start-column="3" selection-end-line="54" selection-end-column="3" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MongoDB笔记/10-聚合(mapReduce!!!).md">
       <provider editor-type-id="MarkdownFxPreviewEditor">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MongoDB笔记/10-聚合(mapReduce!!!).md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="342">
@@ -701,136 +660,130 @@
           <second_editor />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MongoDB笔记/11-应用程序设计.md">
       <provider editor-type-id="MarkdownFxPreviewEditor">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MongoDB笔记/11-应用程序设计.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="44">
             <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MongoDB笔记/12-副本集.md">
       <provider editor-type-id="MarkdownFxPreviewEditor">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MongoDB笔记/12-副本集.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="0">
             <caret line="0" column="13" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MongoDB笔记/13-分片与集群.md">
       <provider editor-type-id="MarkdownFxPreviewEditor">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MongoDB笔记/13-分片与集群.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="66">
             <caret line="3" column="41" selection-start-line="3" selection-start-column="41" selection-end-line="3" selection-end-column="41" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MongoDB笔记/14-应用管理.md">
       <provider editor-type-id="MarkdownFxPreviewEditor">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MongoDB笔记/14-应用管理.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="110">
             <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MongoDB笔记/15-数据管理.md">
       <provider editor-type-id="MarkdownFxPreviewEditor">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MongoDB笔记/15-数据管理.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="0">
             <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MongoDB笔记/16-持久性.md">
       <provider editor-type-id="MarkdownFxPreviewEditor">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MongoDB笔记/16-持久性.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="0">
             <caret line="0" column="7" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MongoDB笔记/18-MongoDB监控与备份.md">
       <provider editor-type-id="MarkdownFxPreviewEditor">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MongoDB笔记/18-MongoDB监控与备份.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="0">
             <caret line="0" column="16" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javascript设计模式/03-代理模式proxy.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-          <folding />
-        </state>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/javascript设计模式/03-代理模式proxy.html" />
     <entry file="file://$PROJECT_DIR$/前端优质题目/07-函数节流throttle与防抖debounce.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1980">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/前端优质题目/01-函数节流-throttle.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-242">
-          <caret line="15" column="17" selection-start-line="0" selection-start-column="0" selection-end-line="93" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/前端优质题目/01-函数节流-throttle.html" />
     <entry file="file://$PROJECT_DIR$/javascript设计模式/03-代理模式proxy.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="352">
           <caret line="59" column="17" selection-start-line="59" selection-start-column="17" selection-end-line="59" selection-end-column="17" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript设计模式/04-迭代器模式iterator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript设计模式/05-观察者模式(发布-订阅模式)sub_pub.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="548">
+          <caret line="72" column="42" selection-start-line="72" selection-start-column="42" selection-end-line="72" selection-end-column="42" />
+          <folding />
         </state>
       </provider>
     </entry>
