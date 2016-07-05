@@ -89,38 +89,39 @@ LinkedList.prototype = {
 
 }
 
-var list = new LinkedList();
-list.constructList([1, 2, 3, 4, 5, 6]);
-list.display();
+/*
+ var list = new LinkedList();
+ list.constructList([1, 2, 3, 4, 5, 6]);
+ list.display();
 
-console.log('-------------------------------------------');
+ console.log('-------------------------------------------');
 
-console.log(list.find(5));
-console.log(list.find(6));
-console.log(list.find(7));
+ console.log(list.find(5));
+ console.log(list.find(6));
+ console.log(list.find(7));
 
-console.log('-------------------------------------------');
+ console.log('-------------------------------------------');
 
-list.insert(7, 3);
-list.display();
+ list.insert(7, 3);
+ list.display();
 
-console.log('-------------------------------------------');
+ console.log('-------------------------------------------');
 
-list.insert(8, 10);
-list.display();
+ list.insert(8, 10);
+ list.display();
 
-console.log('-------------------------------------------');
+ console.log('-------------------------------------------');
 
-list.remove(7);
-list.display();
+ list.remove(7);
+ list.display();
 
-console.log('-------------------------------------------');
+ console.log('-------------------------------------------');
 
-list.remove(6);
-list.remove(2);
-list.display();
+ list.remove(6);
+ list.remove(2);
+ list.display();
 
-console.log('-------------------------------------------');
-
+ console.log('-------------------------------------------');
+ */
 
 module.exports = LinkedList;
