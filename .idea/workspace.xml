@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascript实现常见的数据结构与算法/data-structures/04-02-DoublyLinkedList.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascript实现常见的数据结构与算法/data-structures/04-03-CircularLinkedList.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript实现常见的数据结构与算法/data-structures/04-LinkedList.js" afterPath="$PROJECT_DIR$/javascript实现常见的数据结构与算法/data-structures/04-01-LinkedList.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascript实现常见的数据结构与算法/03-链表的应用/03-N个人围成圈,顺序数数,每次除去第M个人,求最后剩下.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javascript实现常见的数据结构与算法/data-structures/05-Dictionary.js" afterPath="$PROJECT_DIR$/javascript实现常见的数据结构与算法/data-structures/05-Dictionary.js" />
     </list>
     <ignored path="前端知识学习.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,11 +25,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="04-02-DoublyLinkedList.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="04-02-DoublyLinkedList.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/javascript实现常见的数据结构与算法/data-structures/04-02-DoublyLinkedList.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="2838">
               <caret line="129" column="3" selection-start-line="129" selection-start-column="3" selection-end-line="129" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="03-N个人围成圈,顺序数数,每次除去第M个人,求最后剩下.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/javascript实现常见的数据结构与算法/03-链表的应用/03-N个人围成圈,顺序数数,每次除去第M个人,求最后剩下.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="05-Dictionary.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/javascript实现常见的数据结构与算法/data-structures/05-Dictionary.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="142">
+              <caret line="53" column="21" selection-start-line="53" selection-start-column="21" selection-end-line="53" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -73,8 +93,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/css学习总结/01-权重.html" />
-        <option value="$PROJECT_DIR$/css学习总结/02-浮动的原理和产生的影响.html" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/前端优质题目/08-什么是css-reset.js" />
         <option value="$PROJECT_DIR$/前端优质题目/08-什么是css-reset.md" />
@@ -124,6 +142,8 @@
         <option value="$PROJECT_DIR$/javascript实现常见的数据结构与算法/data-structures/04-LinkedList.js" />
         <option value="$PROJECT_DIR$/javascript实现常见的数据结构与算法/data-structures/04-1-DoublyLinkedList.js" />
         <option value="$PROJECT_DIR$/javascript实现常见的数据结构与算法/data-structures/04-02-DoublyLinkedList.js" />
+        <option value="$PROJECT_DIR$/javascript实现常见的数据结构与算法/03-链表的应用/03-N个人围成圈,顺序数数,每次除去第M个人,求最后剩下.js" />
+        <option value="$PROJECT_DIR$/javascript实现常见的数据结构与算法/data-structures/05-Dictionary.js" />
       </list>
     </option>
   </component>
@@ -279,10 +299,7 @@
       <recent name="$PROJECT_DIR$/algorithms" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.04-02-DoublyLinkedList.js">
-    <configuration default="false" name="05-两个栈实现队列.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/javascript实现常见的数据结构与算法/01-栈的应用/05-两个栈实现队列.js" working-dir="$PROJECT_DIR$/javascript实现常见的数据结构与算法/01-栈的应用">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Node.js.05-Dictionary.js">
     <configuration default="false" name="03-括号匹配检验.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/javascript实现常见的数据结构与算法/01-栈的应用/03-括号匹配检验.js" working-dir="$PROJECT_DIR$/javascript实现常见的数据结构与算法/01-栈的应用">
       <method />
     </configuration>
@@ -293,6 +310,9 @@
       <method />
     </configuration>
     <configuration default="false" name="04-02-DoublyLinkedList.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="04-02-DoublyLinkedList.js" working-dir="$PROJECT_DIR$/javascript实现常见的数据结构与算法/data-structures">
+      <method />
+    </configuration>
+    <configuration default="false" name="05-Dictionary.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="05-Dictionary.js" working-dir="$PROJECT_DIR$/javascript实现常见的数据结构与算法/data-structures">
       <method />
     </configuration>
     <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
@@ -337,19 +357,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.05-两个栈实现队列.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.03-括号匹配检验.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.03_Queue.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.04-LinkedList.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.04-02-DoublyLinkedList.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.03-括号匹配检验.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.03_Queue.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.04-LinkedList.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.04-02-DoublyLinkedList.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.05-Dictionary.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.04-02-DoublyLinkedList.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.04-LinkedList.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.03_Queue.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.03-括号匹配检验.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.05-两个栈实现队列.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.05-Dictionary.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.04-02-DoublyLinkedList.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.04-LinkedList.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.03_Queue.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.03-括号匹配检验.js" />
       </list>
     </recent_temporary>
   </component>
@@ -372,22 +392,22 @@
       <workItem from="1467164244137" duration="29086000" />
       <workItem from="1467266405310" duration="19402000" />
       <workItem from="1467596770940" duration="8125000" />
-      <workItem from="1467621362438" duration="13424000" />
+      <workItem from="1467621362438" duration="14330000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="79873000" />
+    <option name="totallyTimeSpent" value="80779000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27958697" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20015885" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34699455" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34699455" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
@@ -424,14 +444,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/javascript设计模式/05-观察者模式(发布-订阅模式)sub_pub.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="548">
-          <caret line="72" column="42" selection-start-line="72" selection-start-column="42" selection-end-line="72" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css学习总结/01-权重.html" />
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
@@ -481,6 +493,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-728">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -658,14 +673,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/javascript实现常见的数据结构与算法/02-队列的应用/02-使用两个队列实现栈.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javascript实现常见的数据结构与算法/data-structures/05-Dictionary.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -885,6 +892,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2838">
           <caret line="129" column="3" selection-start-line="129" selection-start-column="3" selection-end-line="129" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript实现常见的数据结构与算法/03-链表的应用/03-N个人围成圈,顺序数数,每次除去第M个人,求最后剩下.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript实现常见的数据结构与算法/data-structures/05-Dictionary.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="53" column="21" selection-start-line="53" selection-start-column="21" selection-end-line="53" selection-end-column="21" />
           <folding />
         </state>
       </provider>
