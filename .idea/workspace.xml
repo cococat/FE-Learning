@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javascript实现常见的数据结构与算法/data-structures/04-LinkedList.js" afterPath="$PROJECT_DIR$/javascript实现常见的数据结构与算法/data-structures/04-LinkedList.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascript实现常见的数据结构与算法/data-structures/04-02-DoublyLinkedList.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascript实现常见的数据结构与算法/data-structures/04-03-CircularLinkedList.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript实现常见的数据结构与算法/data-structures/04-LinkedList.js" afterPath="$PROJECT_DIR$/javascript实现常见的数据结构与算法/data-structures/04-01-LinkedList.js" />
     </list>
     <ignored path="前端知识学习.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,12 +25,34 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="04-LinkedList.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/javascript实现常见的数据结构与算法/data-structures/04-LinkedList.js">
+      <file leaf-file-name="04-02-DoublyLinkedList.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/javascript实现常见的数据结构与算法/data-structures/04-02-DoublyLinkedList.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2354">
-              <caret line="126" column="0" selection-start-line="126" selection-start-column="0" selection-end-line="126" selection-end-column="0" />
+            <state relative-caret-position="2838">
+              <caret line="129" column="3" selection-start-line="129" selection-start-column="3" selection-end-line="129" selection-end-column="3" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="04-01-LinkedList.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/javascript实现常见的数据结构与算法/data-structures/04-01-LinkedList.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="20" column="3" selection-start-line="20" selection-start-column="3" selection-end-line="87" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="04-03-CircularLinkedList.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/javascript实现常见的数据结构与算法/data-structures/04-03-CircularLinkedList.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -49,8 +73,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/javascript设计模式/05-观察者模式(发布-订阅模式)sub_pub.html" />
-        <option value="$PROJECT_DIR$/javascript设计模式/05-观察者模式(发布-订阅模式)sub_pub.js" />
         <option value="$PROJECT_DIR$/css学习总结/01-权重.html" />
         <option value="$PROJECT_DIR$/css学习总结/02-浮动的原理和产生的影响.html" />
         <option value="$PROJECT_DIR$/.gitignore" />
@@ -100,6 +122,8 @@
         <option value="$PROJECT_DIR$/javascript实现常见的数据结构与算法/03-链表的应用/01-链表倒数第K个节点.js" />
         <option value="$PROJECT_DIR$/javascript实现常见的数据结构与算法/03-链表的应用/02-O(1)复杂度删除链表某个节点.js" />
         <option value="$PROJECT_DIR$/javascript实现常见的数据结构与算法/data-structures/04-LinkedList.js" />
+        <option value="$PROJECT_DIR$/javascript实现常见的数据结构与算法/data-structures/04-1-DoublyLinkedList.js" />
+        <option value="$PROJECT_DIR$/javascript实现常见的数据结构与算法/data-structures/04-02-DoublyLinkedList.js" />
       </list>
     </option>
   </component>
@@ -248,16 +272,14 @@
       <recent name="$PROJECT_DIR$/其他" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/javascript实现常见的数据结构与算法/data-structures" />
       <recent name="$PROJECT_DIR$/前端优质题目" />
       <recent name="$PROJECT_DIR$/其他" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/algorithms" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.04-LinkedList.js">
-    <configuration default="false" name="01-数制转换.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/javascript实现常见的数据结构与算法/01-栈的应用/01-数制转换.js" working-dir="$PROJECT_DIR$/javascript实现常见的数据结构与算法/01-栈的应用">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Node.js.04-02-DoublyLinkedList.js">
     <configuration default="false" name="05-两个栈实现队列.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/javascript实现常见的数据结构与算法/01-栈的应用/05-两个栈实现队列.js" working-dir="$PROJECT_DIR$/javascript实现常见的数据结构与算法/01-栈的应用">
       <method />
     </configuration>
@@ -267,7 +289,10 @@
     <configuration default="false" name="03_Queue.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="03_Queue.js" working-dir="$PROJECT_DIR$/javascript实现常见的数据结构与算法/data-structures">
       <method />
     </configuration>
-    <configuration default="false" name="04-LinkedList.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="04-LinkedList.js" working-dir="$PROJECT_DIR$/javascript实现常见的数据结构与算法/data-structures">
+    <configuration default="false" name="04-LinkedList.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/javascript实现常见的数据结构与算法/data-structures/04-01-LinkedList.js" working-dir="$PROJECT_DIR$/javascript实现常见的数据结构与算法/data-structures">
+      <method />
+    </configuration>
+    <configuration default="false" name="04-02-DoublyLinkedList.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="04-02-DoublyLinkedList.js" working-dir="$PROJECT_DIR$/javascript实现常见的数据结构与算法/data-structures">
       <method />
     </configuration>
     <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
@@ -312,19 +337,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.01-数制转换.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.05-两个栈实现队列.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.03-括号匹配检验.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.03_Queue.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.04-LinkedList.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.05-两个栈实现队列.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.03-括号匹配检验.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.03_Queue.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.04-LinkedList.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.04-02-DoublyLinkedList.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.04-LinkedList.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.03_Queue.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.03-括号匹配检验.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.05-两个栈实现队列.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.01-数制转换.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.04-02-DoublyLinkedList.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.04-LinkedList.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.03_Queue.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.03-括号匹配检验.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.05-两个栈实现队列.js" />
       </list>
     </recent_temporary>
   </component>
@@ -347,12 +372,12 @@
       <workItem from="1467164244137" duration="29086000" />
       <workItem from="1467266405310" duration="19402000" />
       <workItem from="1467596770940" duration="8125000" />
-      <workItem from="1467621362438" duration="12053000" />
+      <workItem from="1467621362438" duration="13424000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="78502000" />
+    <option name="totallyTimeSpent" value="79873000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -399,21 +424,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/javascript设计模式/03-代理模式proxy.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="59" column="17" selection-start-line="59" selection-start-column="17" selection-end-line="59" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javascript设计模式/04-迭代器模式iterator.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/javascript设计模式/05-观察者模式(发布-订阅模式)sub_pub.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="548">
@@ -495,6 +505,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1899">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -852,10 +863,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/javascript实现常见的数据结构与算法/data-structures/04-LinkedList.js">
+    <entry file="file://$PROJECT_DIR$/javascript实现常见的数据结构与算法/data-structures/04-03-CircularLinkedList.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2354">
-          <caret line="126" column="0" selection-start-line="126" selection-start-column="0" selection-end-line="126" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript实现常见的数据结构与算法/data-structures/04-01-LinkedList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="20" column="3" selection-start-line="20" selection-start-column="3" selection-end-line="87" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript实现常见的数据结构与算法/data-structures/04-02-DoublyLinkedList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2838">
+          <caret line="129" column="3" selection-start-line="129" selection-start-column="3" selection-end-line="129" selection-end-column="3" />
           <folding />
         </state>
       </provider>
