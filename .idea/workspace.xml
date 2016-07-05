@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascript实现常见的数据结构与算法/03-链表的应用/03-N个人围成圈,顺序数数,每次除去第M个人,求最后剩下.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javascript实现常见的数据结构与算法/data-structures/05-Dictionary.js" afterPath="$PROJECT_DIR$/javascript实现常见的数据结构与算法/data-structures/05-Dictionary.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javascript实现常见的数据结构与算法/data-structures/06-HashTable.js" afterPath="$PROJECT_DIR$/javascript实现常见的数据结构与算法/data-structures/06-HashTable.js" />
     </list>
     <ignored path="前端知识学习.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,54 +23,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="04-02-DoublyLinkedList.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/javascript实现常见的数据结构与算法/data-structures/04-02-DoublyLinkedList.js">
+      <file leaf-file-name="06-HashTable.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/javascript实现常见的数据结构与算法/data-structures/06-HashTable.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2838">
-              <caret line="129" column="3" selection-start-line="129" selection-start-column="3" selection-end-line="129" selection-end-column="3" />
+            <state relative-caret-position="76">
+              <caret line="55" column="5" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="5" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="03-N个人围成圈,顺序数数,每次除去第M个人,求最后剩下.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/javascript实现常见的数据结构与算法/03-链表的应用/03-N个人围成圈,顺序数数,每次除去第M个人,求最后剩下.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="05-Dictionary.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/javascript实现常见的数据结构与算法/data-structures/05-Dictionary.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="142">
-              <caret line="53" column="21" selection-start-line="53" selection-start-column="21" selection-end-line="53" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="04-01-LinkedList.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/javascript实现常见的数据结构与算法/data-structures/04-01-LinkedList.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="20" column="3" selection-start-line="20" selection-start-column="3" selection-end-line="87" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="04-03-CircularLinkedList.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/javascript实现常见的数据结构与算法/data-structures/04-03-CircularLinkedList.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -93,7 +49,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/前端优质题目/08-什么是css-reset.js" />
         <option value="$PROJECT_DIR$/前端优质题目/08-什么是css-reset.md" />
         <option value="$PROJECT_DIR$/README.md" />
@@ -144,6 +99,7 @@
         <option value="$PROJECT_DIR$/javascript实现常见的数据结构与算法/data-structures/04-02-DoublyLinkedList.js" />
         <option value="$PROJECT_DIR$/javascript实现常见的数据结构与算法/03-链表的应用/03-N个人围成圈,顺序数数,每次除去第M个人,求最后剩下.js" />
         <option value="$PROJECT_DIR$/javascript实现常见的数据结构与算法/data-structures/05-Dictionary.js" />
+        <option value="$PROJECT_DIR$/javascript实现常见的数据结构与算法/data-structures/06-HashTable.js" />
       </list>
     </option>
   </component>
@@ -233,42 +189,6 @@
               <option name="myItemId" value="javascript实现常见的数据结构与算法" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="03-链表的应用" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="前端知识学习" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="前端知识学习" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="javascript实现常见的数据结构与算法" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="前端知识学习" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="前端知识学习" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="javascript实现常见的数据结构与算法" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="01-栈的应用" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -299,10 +219,7 @@
       <recent name="$PROJECT_DIR$/algorithms" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.05-Dictionary.js">
-    <configuration default="false" name="03-括号匹配检验.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/javascript实现常见的数据结构与算法/01-栈的应用/03-括号匹配检验.js" working-dir="$PROJECT_DIR$/javascript实现常见的数据结构与算法/01-栈的应用">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Node.js.06-HashTable.js">
     <configuration default="false" name="03_Queue.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="03_Queue.js" working-dir="$PROJECT_DIR$/javascript实现常见的数据结构与算法/data-structures">
       <method />
     </configuration>
@@ -313,6 +230,9 @@
       <method />
     </configuration>
     <configuration default="false" name="05-Dictionary.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="05-Dictionary.js" working-dir="$PROJECT_DIR$/javascript实现常见的数据结构与算法/data-structures">
+      <method />
+    </configuration>
+    <configuration default="false" name="06-HashTable.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="06-HashTable.js" working-dir="$PROJECT_DIR$/javascript实现常见的数据结构与算法/data-structures">
       <method />
     </configuration>
     <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
@@ -357,19 +277,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.03-括号匹配检验.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.03_Queue.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.04-LinkedList.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.04-02-DoublyLinkedList.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.05-Dictionary.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.03_Queue.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.04-LinkedList.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.04-02-DoublyLinkedList.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.05-Dictionary.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.06-HashTable.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.05-Dictionary.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.04-02-DoublyLinkedList.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.04-LinkedList.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.03_Queue.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.03-括号匹配检验.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.06-HashTable.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.05-Dictionary.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.04-02-DoublyLinkedList.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.04-LinkedList.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.03_Queue.js" />
       </list>
     </recent_temporary>
   </component>
@@ -392,18 +312,18 @@
       <workItem from="1467164244137" duration="29086000" />
       <workItem from="1467266405310" duration="19402000" />
       <workItem from="1467596770940" duration="8125000" />
-      <workItem from="1467621362438" duration="14330000" />
+      <workItem from="1467621362438" duration="16064000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="80779000" />
+    <option name="totallyTimeSpent" value="82513000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20015885" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25575852" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -680,14 +600,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/javascript实现常见的数据结构与算法/data-structures/06-HashTable.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/javascript实现常见的数据结构与算法/data-structures/07-Set.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -724,14 +636,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
           <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javascript实现常见的数据结构与算法/01-栈的应用/05-两个栈实现队列.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="770">
-          <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -908,6 +812,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="142">
           <caret line="53" column="21" selection-start-line="53" selection-start-column="21" selection-end-line="53" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript实现常见的数据结构与算法/01-栈的应用/05-两个栈实现队列.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="770">
+          <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript实现常见的数据结构与算法/data-structures/06-HashTable.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="55" column="5" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="5" />
           <folding />
         </state>
       </provider>
