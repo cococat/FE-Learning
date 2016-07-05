@@ -2,23 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/数据结构与算法javascript描述/01-栈的应用/01-数制转换.js" afterPath="$PROJECT_DIR$/javascript实现常见的数据结构与算法/01-栈的应用/01-数制转换.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/数据结构与算法javascript描述/01-栈的应用/02-判断回文数.js" afterPath="$PROJECT_DIR$/javascript实现常见的数据结构与算法/01-栈的应用/02-判断回文数.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/数据结构与算法javascript描述/01-栈的应用/03-括号匹配检验.js" afterPath="$PROJECT_DIR$/javascript实现常见的数据结构与算法/01-栈的应用/03-括号匹配检验.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/数据结构与算法javascript描述/01-栈的应用/04-表达式求值.js" afterPath="$PROJECT_DIR$/javascript实现常见的数据结构与算法/01-栈的应用/04-表达式求值.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/数据结构与算法javascript描述/01-栈的应用/05-两个栈实现队列.js" afterPath="$PROJECT_DIR$/javascript实现常见的数据结构与算法/01-栈的应用/05-两个栈实现队列.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/数据结构与算法javascript描述/02-队列的应用/01-实现双向队列.js" afterPath="$PROJECT_DIR$/javascript实现常见的数据结构与算法/02-队列的应用/01-实现双向队列.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/数据结构与算法javascript描述/02-队列的应用/02-使用两个队列实现栈.js" afterPath="$PROJECT_DIR$/javascript实现常见的数据结构与算法/02-队列的应用/02-使用两个队列实现栈.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/数据结构与算法javascript描述/data-structures/01_List.js" afterPath="$PROJECT_DIR$/javascript实现常见的数据结构与算法/data-structures/01_List.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/数据结构与算法javascript描述/data-structures/02_Stack.js" afterPath="$PROJECT_DIR$/javascript实现常见的数据结构与算法/data-structures/02_Stack.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/数据结构与算法javascript描述/data-structures/03_Queue.js" afterPath="$PROJECT_DIR$/javascript实现常见的数据结构与算法/data-structures/03_Queue.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/数据结构与算法javascript描述/data-structures/04-LinkedList.js" afterPath="$PROJECT_DIR$/javascript实现常见的数据结构与算法/data-structures/04-LinkedList.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/数据结构与算法javascript描述/data-structures/05-Dictionary.js" afterPath="$PROJECT_DIR$/javascript实现常见的数据结构与算法/data-structures/05-Dictionary.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/数据结构与算法javascript描述/data-structures/06-HashTable.js" afterPath="$PROJECT_DIR$/javascript实现常见的数据结构与算法/data-structures/06-HashTable.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/数据结构与算法javascript描述/data-structures/07-Set.js" afterPath="$PROJECT_DIR$/javascript实现常见的数据结构与算法/data-structures/07-Set.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/数据结构与算法javascript描述/data-structures/08-BinaryTree.js" afterPath="$PROJECT_DIR$/javascript实现常见的数据结构与算法/data-structures/08-BinaryTree.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/数据结构与算法javascript描述/data-structures/09-BinarySeachTree.js" afterPath="$PROJECT_DIR$/javascript实现常见的数据结构与算法/data-structures/09-BinarySeachTree.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/数据结构与算法javascript描述/data-structures/10-Graph.js" afterPath="$PROJECT_DIR$/javascript实现常见的数据结构与算法/data-structures/10-Graph.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javascript实现常见的数据结构与算法/data-structures/03_Queue.js" afterPath="$PROJECT_DIR$/javascript实现常见的数据结构与算法/data-structures/03_Queue.js" />
     </list>
     <ignored path="前端知识学习.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -39,11 +23,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="02_Stack.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/javascript实现常见的数据结构与算法/data-structures/02_Stack.js">
+      <file leaf-file-name="04-LinkedList.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/javascript实现常见的数据结构与算法/data-structures/04-LinkedList.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="660">
-              <caret line="42" column="16" selection-start-line="42" selection-start-column="16" selection-end-line="42" selection-end-column="16" />
+            <state relative-caret-position="66">
+              <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -65,7 +49,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/javascript设计模式/00-函数节流throttle与防抖debounce.js" />
         <option value="$PROJECT_DIR$/javascript设计模式/00-函数节流throttle与防抖debounce.html" />
         <option value="$PROJECT_DIR$/MarkDown语法学习.md" />
         <option value="$PROJECT_DIR$/javascript设计模式/01-单例模式singleton.html" />
@@ -116,6 +99,7 @@
         <option value="$PROJECT_DIR$/数据结构与算法javascript描述/01-栈的应用/05-两个栈实现队列.js" />
         <option value="$PROJECT_DIR$/数据结构与算法javascript描述/01-栈的应用/04-表达式求值.js" />
         <option value="$PROJECT_DIR$/数据结构与算法javascript描述/01-栈的应用/03-括号匹配检验.js" />
+        <option value="$PROJECT_DIR$/javascript实现常见的数据结构与算法/data-structures/03_Queue.js" />
       </list>
     </option>
   </component>
@@ -174,6 +158,38 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="前端知识学习" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="前端知识学习" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javascript实现常见的数据结构与算法" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="data-structures" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="前端知识学习" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="前端知识学习" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javascript实现常见的数据结构与算法" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -202,10 +218,7 @@
       <recent name="$PROJECT_DIR$/algorithms" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.03-括号匹配检验.js">
-    <configuration default="false" name="Stack.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/javascript实现常见的数据结构与算法/data-structures/02_Stack.js" working-dir="$PROJECT_DIR$/javascript实现常见的数据结构与算法/data-structures">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Node.js.03_Queue.js">
     <configuration default="false" name="02-判断回文数.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/javascript实现常见的数据结构与算法/01-栈的应用/02-判断回文数.js" working-dir="$PROJECT_DIR$/javascript实现常见的数据结构与算法/01-栈的应用">
       <method />
     </configuration>
@@ -216,6 +229,9 @@
       <method />
     </configuration>
     <configuration default="false" name="03-括号匹配检验.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/javascript实现常见的数据结构与算法/01-栈的应用/03-括号匹配检验.js" working-dir="$PROJECT_DIR$/javascript实现常见的数据结构与算法/01-栈的应用">
+      <method />
+    </configuration>
+    <configuration default="false" name="03_Queue.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="03_Queue.js" working-dir="$PROJECT_DIR$/javascript实现常见的数据结构与算法/data-structures">
       <method />
     </configuration>
     <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
@@ -260,19 +276,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.Stack.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.02-判断回文数.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.01-数制转换.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.05-两个栈实现队列.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.03-括号匹配检验.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.02-判断回文数.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.01-数制转换.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.05-两个栈实现队列.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.03-括号匹配检验.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.03_Queue.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.03-括号匹配检验.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.05-两个栈实现队列.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.01-数制转换.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.02-判断回文数.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.Stack.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.03_Queue.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.03-括号匹配检验.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.05-两个栈实现队列.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.01-数制转换.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.02-判断回文数.js" />
       </list>
     </recent_temporary>
   </component>
@@ -295,18 +311,18 @@
       <workItem from="1467164244137" duration="29086000" />
       <workItem from="1467266405310" duration="19402000" />
       <workItem from="1467596770940" duration="8125000" />
-      <workItem from="1467621362438" duration="7589000" />
+      <workItem from="1467621362438" duration="8090000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="74038000" />
+    <option name="totallyTimeSpent" value="74539000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27958697" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27958697" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -486,20 +502,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css学习总结/02-浮动的原理和产生的影响.html" />
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="242">
-            <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/前端优质知识点总结/00-javascript内存泄漏的4种情况.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
@@ -706,14 +708,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/javascript实现常见的数据结构与算法/data-structures/03_Queue.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/javascript实现常见的数据结构与算法/02-队列的应用/01-实现双向队列.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -726,14 +720,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javascript实现常见的数据结构与算法/data-structures/04-LinkedList.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
           <folding />
         </state>
       </provider>
@@ -826,10 +812,40 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="242">
+            <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/javascript实现常见的数据结构与算法/data-structures/02_Stack.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="660">
           <caret line="42" column="16" selection-start-line="42" selection-start-column="16" selection-end-line="42" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript实现常见的数据结构与算法/data-structures/03_Queue.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="924">
+          <caret line="42" column="18" selection-start-line="42" selection-start-column="18" selection-end-line="42" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript实现常见的数据结构与算法/data-structures/04-LinkedList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
           <folding />
         </state>
       </provider>
