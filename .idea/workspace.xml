@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/javascript实现常见的数据结构与算法/data-structures/09-BinarySeachTree.js" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript实现常见的数据结构与算法/data-structures/08-BinaryTree.js" afterPath="$PROJECT_DIR$/javascript实现常见的数据结构与算法/data-structures/08-BinarySearchTree.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript实现常见的数据结构与算法/data-structures/10-Graph.js" afterPath="$PROJECT_DIR$/javascript实现常见的数据结构与算法/data-structures/09-Graph.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/00-排序算法分析.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/07-堆排序.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/01-选择排序.js" afterPath="$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/06-快速排序.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/02-插入排序.js" afterPath="$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/05-归并排序.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/03-快排.js" afterPath="$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/04-希尔排序.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/04-冒泡排序.js" afterPath="$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/03-插入排序.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/05-堆排序.js" afterPath="$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/02-选择排序.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/06-基数排序.js" afterPath="$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/01-冒泡排序.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="前端知识学习.iws" />
@@ -26,11 +31,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="08-BinarySearchTree.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/javascript实现常见的数据结构与算法/data-structures/08-BinarySearchTree.js">
+      <file leaf-file-name="01-冒泡排序.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/01-冒泡排序.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="52" column="10" selection-start-line="52" selection-start-column="10" selection-end-line="52" selection-end-column="10" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -52,8 +57,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/数据结构与算法javascript描述/数据结构实现/List.js" />
-        <option value="$PROJECT_DIR$/数据结构与算法javascript描述/数据结构实现/Stack.js" />
         <option value="$PROJECT_DIR$/数据结构与算法javascript描述/04-表达式求值.js" />
         <option value="$PROJECT_DIR$/数据结构与算法javascript描述/data-structures/Queue.js" />
         <option value="$PROJECT_DIR$/数据结构与算法javascript描述/data-structures/03_Queue.js" />
@@ -103,6 +106,8 @@
         <option value="$PROJECT_DIR$/javascript设计模式/14-适配器模式adaptor.html" />
         <option value="$PROJECT_DIR$/javascript设计模式/15-设计原则与编程技巧.html" />
         <option value="$PROJECT_DIR$/javascript实现常见的数据结构与算法/data-structures/08-BinarySearchTree.js" />
+        <option value="$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/05-归并排序.js" />
+        <option value="$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/01-冒泡排序.js" />
       </list>
     </option>
   </component>
@@ -173,10 +178,6 @@
               <option name="myItemId" value="javascript实现常见的数据结构与算法" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="data-structures" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -189,6 +190,10 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="javascript实现常见的数据结构与算法" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="00-排序算法" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -316,12 +321,12 @@
       <workItem from="1467266405310" duration="19402000" />
       <workItem from="1467596770940" duration="8125000" />
       <workItem from="1467621362438" duration="16186000" />
-      <workItem from="1467703156173" duration="2610000" />
+      <workItem from="1467703156173" duration="3176000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="85245000" />
+    <option name="totallyTimeSpent" value="85811000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -368,33 +373,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/前端优质知识点总结/07-函数节流throttle与防抖debounce.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1899">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/前端优质知识点总结/08-什么是css-reset.md">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="515">
-            <caret line="29" column="3" selection-start-line="29" selection-start-column="3" selection-end-line="29" selection-end-column="3" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/前端优质知识点总结/09-浮动的原理和工作方式,产生的影响.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
@@ -601,45 +579,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/01-选择排序.js">
+    <entry file="file://$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/02-选择排序.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/03-插入排序.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/04-希尔排序.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/02-插入排序.js">
+    <entry file="file://$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/07-堆排序.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/03-快排.js">
+    <entry file="file://$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/06-快速排序.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/04-冒泡排序.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/05-堆排序.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/06-基数排序.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -812,10 +787,40 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/00-排序算法分析.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/05-归并排序.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/javascript实现常见的数据结构与算法/data-structures/08-BinarySearchTree.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
           <caret line="52" column="10" selection-start-line="52" selection-start-column="10" selection-end-line="52" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/01-冒泡排序.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
