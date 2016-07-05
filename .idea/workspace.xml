@@ -2,7 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javascript实现常见的数据结构与算法/data-structures/03_Queue.js" afterPath="$PROJECT_DIR$/javascript实现常见的数据结构与算法/data-structures/03_Queue.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/01-选择排序.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/02-插入排序.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/03-快排.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/04-冒泡排序.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/05-堆排序.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/06-基数排序.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-查找算法/01-线性查找.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-查找算法/02-二分查找.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascript实现常见的数据结构与算法/03-链表的应用/01-链表倒数第K个节点.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascript实现常见的数据结构与算法/03-链表的应用/02-O(1)复杂度删除链表某个节点.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javascript实现常见的数据结构与算法/01-栈的应用/04-表达式求值.js" afterPath="$PROJECT_DIR$/javascript实现常见的数据结构与算法/01-栈的应用/04-表达式求值.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javascript实现常见的数据结构与算法/data-structures/04-LinkedList.js" afterPath="$PROJECT_DIR$/javascript实现常见的数据结构与算法/data-structures/04-LinkedList.js" />
     </list>
     <ignored path="前端知识学习.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,8 +38,8 @@
       <file leaf-file-name="04-LinkedList.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/javascript实现常见的数据结构与算法/data-structures/04-LinkedList.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+            <state relative-caret-position="44">
+              <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -49,18 +61,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/javascript设计模式/00-函数节流throttle与防抖debounce.html" />
-        <option value="$PROJECT_DIR$/MarkDown语法学习.md" />
-        <option value="$PROJECT_DIR$/javascript设计模式/01-单例模式singleton.html" />
-        <option value="$PROJECT_DIR$/javascript设计模式/01-单例模式singleton.js" />
-        <option value="$PROJECT_DIR$/javascript设计模式/02-策略模式strategy.js" />
-        <option value="$PROJECT_DIR$/MongoDB笔记/03-学习过程中使用的数据库.md" />
-        <option value="$PROJECT_DIR$/MongoDB笔记/09-聚合(重要!!!).md" />
-        <option value="$PROJECT_DIR$/MongoDB笔记/10-聚合(mapReduce!!!).md" />
-        <option value="$PROJECT_DIR$/javascript设计模式/03-代理模式proxy.html" />
-        <option value="$PROJECT_DIR$/javascript设计模式/03-代理模式.js" />
-        <option value="$PROJECT_DIR$/javascript设计模式/03-代理模式proxy.js" />
-        <option value="$PROJECT_DIR$/javascript设计模式/04-迭代器模式iterator.js" />
         <option value="$PROJECT_DIR$/javascript设计模式/05-观察者模式(发布-订阅模式)sub_pub.html" />
         <option value="$PROJECT_DIR$/javascript设计模式/05-观察者模式(发布-订阅模式)sub_pub.js" />
         <option value="$PROJECT_DIR$/css学习总结/01-权重.html" />
@@ -100,6 +100,18 @@
         <option value="$PROJECT_DIR$/数据结构与算法javascript描述/01-栈的应用/04-表达式求值.js" />
         <option value="$PROJECT_DIR$/数据结构与算法javascript描述/01-栈的应用/03-括号匹配检验.js" />
         <option value="$PROJECT_DIR$/javascript实现常见的数据结构与算法/data-structures/03_Queue.js" />
+        <option value="$PROJECT_DIR$/javascript实现常见的数据结构与算法/01-栈的应用/04-表达式求值.js" />
+        <option value="$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/01-选择排序.js" />
+        <option value="$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/02-插入排序.js" />
+        <option value="$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/03-快排.js" />
+        <option value="$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/04-冒泡排序.js" />
+        <option value="$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/05-堆排序.js" />
+        <option value="$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/06-基数排序.js" />
+        <option value="$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-查找算法/01-线性查找.js" />
+        <option value="$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-查找算法/02-二分查找.js" />
+        <option value="$PROJECT_DIR$/javascript实现常见的数据结构与算法/03-链表的应用/01-链表倒数第K个节点.js" />
+        <option value="$PROJECT_DIR$/javascript实现常见的数据结构与算法/03-链表的应用/02-O(1)复杂度删除链表某个节点.js" />
+        <option value="$PROJECT_DIR$/javascript实现常见的数据结构与算法/data-structures/04-LinkedList.js" />
       </list>
     </option>
   </component>
@@ -187,6 +199,42 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="javascript实现常见的数据结构与算法" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="03-链表的应用" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="前端知识学习" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="前端知识学习" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javascript实现常见的数据结构与算法" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="前端知识学习" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="前端知识学习" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javascript实现常见的数据结构与算法" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="01-栈的应用" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -311,12 +359,12 @@
       <workItem from="1467164244137" duration="29086000" />
       <workItem from="1467266405310" duration="19402000" />
       <workItem from="1467596770940" duration="8125000" />
-      <workItem from="1467621362438" duration="8090000" />
+      <workItem from="1467621362438" duration="8608000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="74539000" />
+    <option name="totallyTimeSpent" value="75057000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -363,113 +411,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/MongoDB笔记/10-聚合(mapReduce!!!).md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="342">
-            <caret line="65" column="3" selection-start-line="65" selection-start-column="3" selection-end-line="65" selection-end-column="3" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MongoDB笔记/11-应用程序设计.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="44">
-            <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MongoDB笔记/12-副本集.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="13" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MongoDB笔记/13-分片与集群.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="66">
-            <caret line="3" column="41" selection-start-line="3" selection-start-column="41" selection-end-line="3" selection-end-column="41" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MongoDB笔记/14-应用管理.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="110">
-            <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MongoDB笔记/15-数据管理.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MongoDB笔记/16-持久性.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="7" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MongoDB笔记/18-MongoDB监控与备份.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="16" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javascript设计模式/03-代理模式proxy.html" />
-    <entry file="file://$PROJECT_DIR$/前端优质题目/01-函数节流-throttle.html" />
     <entry file="file://$PROJECT_DIR$/javascript设计模式/03-代理模式proxy.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="352">
@@ -796,14 +737,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/javascript实现常见的数据结构与算法/01-栈的应用/04-表达式求值.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/javascript实现常见的数据结构与算法/01-栈的应用/02-判断回文数.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
@@ -842,10 +775,98 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/javascript实现常见的数据结构与算法/01-栈的应用/04-表达式求值.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/01-选择排序.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/02-插入排序.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/03-快排.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/04-冒泡排序.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/05-堆排序.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/06-基数排序.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-查找算法/02-二分查找.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-查找算法/01-线性查找.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript实现常见的数据结构与算法/03-链表的应用/02-O(1)复杂度删除链表某个节点.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript实现常见的数据结构与算法/03-链表的应用/01-链表倒数第K个节点.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/javascript实现常见的数据结构与算法/data-structures/04-LinkedList.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+        <state relative-caret-position="44">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
           <folding />
         </state>
       </provider>
