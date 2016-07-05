@@ -44,13 +44,23 @@ LinkedList.prototype = {
     },
 
     remove: function (element) {
-        //不知道待删除节点的前一个节点,
-        // 在O(1)的时间复杂度内删除该节点!!!
-        var foundNode = this.find(element);
-        if (foundNode) {
-            //将待删除元素的下一个节点复制到当前节点,然后删除下一个节点即可!
-            foundNode.element = foundNode.next ? foundNode.next.element : null;
-            foundNode.next = foundNode.next ? foundNode.next.next : null;
+        /*
+         //不知道待删除节点的前一个节点,
+         // 在O(1)的时间复杂度内删除该节点!!!
+         //但这样删除最后一个元素可能有问题?
+         var foundNode = this.find(element);
+         if (foundNode) {
+         //将待删除元素的下一个节点复制到当前节点,然后删除下一个节点即可!
+         foundNode.element = foundNode.next ? foundNode.next.element : null;
+         foundNode.next = foundNode.next ? foundNode.next.next : null;
+         }
+         */
+        var h = this._head;
+        while (h.next && h.next.element !== element) {
+            h = h.next;
+        }
+        if (h.next) {
+            h.next = h.next.next;
         }
     },
 
@@ -72,48 +82,45 @@ LinkedList.prototype = {
     display: function () {
         var p = this._head;
         while (p.next) {
-            if (p.next.element) {
-                console.log(p.next.element);
-                p = p.next;
-            }
+            console.log(p.next.element);
+            p = p.next;
         }
     }
 
 }
 
-/*
- var list = new LinkedList();
- list.constructList([1, 2, 3, 4, 5, 6]);
- list.display();
+var list = new LinkedList();
+list.constructList([1, 2, 3, 4, 5, 6]);
+list.display();
 
- console.log('-------------------------------------------');
+console.log('-------------------------------------------');
 
- console.log(list.find(5));
- console.log(list.find(6));
- console.log(list.find(7));
+console.log(list.find(5));
+console.log(list.find(6));
+console.log(list.find(7));
 
- console.log('-------------------------------------------');
+console.log('-------------------------------------------');
 
- list.insert(7, 3);
- list.display();
+list.insert(7, 3);
+list.display();
 
- console.log('-------------------------------------------');
+console.log('-------------------------------------------');
 
- list.insert(8, 10);
- list.display();
+list.insert(8, 10);
+list.display();
 
- console.log('-------------------------------------------');
+console.log('-------------------------------------------');
 
- list.remove(7);
- list.display();
+list.remove(7);
+list.display();
 
- console.log('-------------------------------------------');
+console.log('-------------------------------------------');
 
- list.remove(6);
- list.remove(3);
- list.display();
+list.remove(6);
+list.remove(2);
+list.display();
 
- console.log('-------------------------------------------');
- */
+console.log('-------------------------------------------');
+
 
 module.exports = LinkedList;
