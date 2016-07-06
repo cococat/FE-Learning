@@ -1,3 +1,30 @@
 /**
- * Created by Edgar.yjb on 16/7/5.
+ * 归并排序
+ *
+ * 如果我们要将一副扑克按照数字大小排序。此前已经有两个人分别将其中的一半排好顺序。
+ * 那么我们可以将这两堆扑克向上放好，假设小的牌在上面。此时，我们将看到牌堆中最上的两张牌。
+
+ * 我们取两张牌中小的那张取出放在手中。两个牌堆中又是两张牌暴露在最上面，继续取小的那张放在手中……
+ * 直到所有的牌都放入手中，那么整副牌就排好顺序了。这就是归并排序。
  */
+
+var generateTestData = require('./00-TestDataGenerator');
+
+var mergeSort = function (data) {
+
+
+    return data;
+}
+
+var data = generateTestData(20);
+console.log(data);
+
+var start = new Date().getTime();
+console.log('start sorting....');
+
+var result = mergeSort(data);
+
+var end = new Date().getTime();
+console.log('耗时: ' + (end - start) + ' ms');
+
+console.log(result);
