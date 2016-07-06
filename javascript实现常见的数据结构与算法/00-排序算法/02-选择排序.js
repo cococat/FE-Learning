@@ -52,4 +52,4 @@ var result = selectionSort(data);
 var end = new Date().getTime();
 console.log('耗时: ' + (end - start) + ' ms');
 
-console.log(result);
+// console.log(result);

@@ -1,3 +1,52 @@
 /**
- * Created by Edgar.yjb on 16/7/5.
+ * 希尔排序
+ *
+ * Shell Sorting依赖于间隔(step)的选取。
+ *
+ * 希尔排序的核心理念和插入排序不同,它会首先比较距离较远的元素,而非相邻元素。
+ * 使用这种方案可以使离正确位置很远的元素能够快速回到更合适的位置。
+ *
+ * 可以动态定义每次排序的间隔,但在应用中,通常会提前定义好间隔序列。
+ *
+ * 希尔排序可以和其他排序算法配合使用,本例使用插入排序。
  */
+
+var generateTestData = require('./00-TestDataGenerator');
+
+var shellSort = function (data, gaps /*array of numbers*/) {
+    var l = data.length;
+
+    for (var k = 0; k < gaps.length; k++) {  //最外层循环取得每次的step
+        var step = gaps[k];
+
+        //内部使用插入排序算法!
+        for (var i = step; i <= l; i += step) {
+            var j = i - step;
+            while ((j >= 0) && (data[j] < data[j - step])) {
+                //交换
+                var tmp = data[j];
+                data[j] = data[j - step];
+                data[j - step] = tmp;
+
+                j -= step;  //j-step
+            }
+        }
+    }
+
+    return data;
+}
+
+
+var data = generateTestData(20000);
+// console.log(data);
+
+var start = new Date().getTime();
+console.log('start sorting....');
+
+var result = shellSort(data, [10, 4, 1]);
+// var result = shellSort(data, [701, 301, 132, 57, 23, 10, 4, 1]);
+
+var end = new Date().getTime();
+console.log('耗时: ' + (end - start) + ' ms');
+
+// console.log(result);
