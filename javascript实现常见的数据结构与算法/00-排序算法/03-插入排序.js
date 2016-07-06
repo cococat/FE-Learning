@@ -13,12 +13,24 @@
 var generateTestData = require('./00-TestDataGenerator');
 
 var insertSort = function (data) {
+    var l = data.length;
 
+    for (var i = 1; i <= l; i++) {
+        var j = i - 1;
+        while ((j >= 0) && (data[j] < data[j - 1])) {
+            //交换
+            var tmp = data[j];
+            data[j] = data[j - 1];
+            data[j - 1] = tmp;
+
+            j--;  //j--
+        }
+    }
     return data;
 }
 
-var data = generateTestData(200);
-console.log(data);
+var data = generateTestData(20000);
+// console.log(data);
 
 var start = new Date().getTime();
 console.log('start sorting....');
@@ -28,4 +40,4 @@ var result = insertSort(data);
 var end = new Date().getTime();
 console.log('耗时: ' + (end - start) + ' ms');
 
-console.log(result);
+// console.log(result);
