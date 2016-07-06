@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/前端知识点总结/02-css/11-display属性详解(!!!!!).md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/前端知识点总结/03-javascript/03-2-一道面试题.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/03-javascript/03-call、apply用法和bind实现.js" afterPath="$PROJECT_DIR$/前端知识点总结/03-javascript/03-01-call、apply用法和bind实现.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/前端知识点总结/01-html/04-01-cookie和session完全总结(!!!).md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="前端知识学习.iws" />
@@ -26,22 +24,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="11-缓存.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/前端知识点总结/03-javascript/11-缓存.md">
-          <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-          <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
-            <state />
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="12-XSS和CSRF.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/前端知识点总结/03-javascript/12-XSS和CSRF.md">
           <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
@@ -164,7 +146,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="11-display属性详解(!!!!!).md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="11-display属性详解(!!!!!).md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/前端知识点总结/02-css/11-display属性详解(!!!!!).md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
@@ -176,6 +158,22 @@
             </state>
           </provider>
           <provider editor-type-id="MarkdownFxPreviewEditor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="04-01-cookie和session完全总结(!!!).md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/前端知识点总结/01-html/04-01-cookie和session完全总结(!!!).md">
+          <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="537">
+                <caret line="111" column="3" selection-start-line="111" selection-start-column="3" selection-end-line="111" selection-end-column="3" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+          <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
             <state />
           </provider>
         </entry>
@@ -196,7 +194,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/javascript实现常见的数据结构与算法/03-链表的应用/03-N个人围成圈,顺序数数,每次除去第M个人,求最后剩下.js" />
         <option value="$PROJECT_DIR$/javascript实现常见的数据结构与算法/data-structures/05-Dictionary.js" />
         <option value="$PROJECT_DIR$/javascript实现常见的数据结构与算法/data-structures/06-HashTable.js" />
         <option value="$PROJECT_DIR$/javascript实现常见的数据结构与算法/data-structures/07-Set.js" />
@@ -247,6 +244,7 @@
         <option value="$PROJECT_DIR$/前端知识点总结/03-javascript/15-document的ready和window的load事件区别.md" />
         <option value="$PROJECT_DIR$/前端知识点总结/03-javascript/03-2-一道面试题.js" />
         <option value="$PROJECT_DIR$/前端知识点总结/02-css/11-display属性详解(!!!!!).md" />
+        <option value="$PROJECT_DIR$/前端知识点总结/01-html/04-01-cookie和session完全总结(!!!).md" />
       </list>
     </option>
   </component>
@@ -485,18 +483,18 @@
       <workItem from="1467596770940" duration="8125000" />
       <workItem from="1467621362438" duration="16186000" />
       <workItem from="1467703156173" duration="3942000" />
-      <workItem from="1467766251246" duration="11358000" />
+      <workItem from="1467766251246" duration="11994000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="97935000" />
+    <option name="totallyTimeSpent" value="98571000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3081811" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25496426" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -537,13 +535,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/javascript设计模式/03-代理模式proxy.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1302">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/javascript设计模式/04-迭代器模式iterator.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-290">
@@ -1182,6 +1173,20 @@
         </state>
       </provider>
       <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/前端知识点总结/01-html/04-01-cookie和session完全总结(!!!).md">
+      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="537">
+            <caret line="111" column="3" selection-start-line="111" selection-start-column="3" selection-end-line="111" selection-end-column="3" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
         <state />
       </provider>
     </entry>
