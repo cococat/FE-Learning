@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/数据结构与算法javascript实现/00-排序算法/05-快速排序(1!!!!!).js" afterPath="$PROJECT_DIR$/数据结构与算法javascript实现/00-排序算法/05-快速排序(1!!!!!).js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/数据结构与算法javascript实现/00-排序算法/07-堆排序(!!!!!).js" afterPath="$PROJECT_DIR$/数据结构与算法javascript实现/00-排序算法/07-堆排序(!!!!!).js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="前端知识学习.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -35,13 +33,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="07-堆排序(!!!!!).js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="07-堆排序(!!!!!).js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/数据结构与算法javascript实现/00-排序算法/07-堆排序(!!!!!).js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="22">
               <caret line="38" column="22" selection-start-line="38" selection-start-column="22" selection-end-line="38" selection-end-column="22" />
               <folding />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="198">
+                <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+          <provider editor-type-id="MarkdownFxPreviewEditor">
+            <state />
           </provider>
         </entry>
       </file>
@@ -61,7 +75,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/前端知识点总结/02-css/11-box-sizing属性.md" />
         <option value="$PROJECT_DIR$/前端知识点总结/01-html/07-web语义化的理解.md" />
         <option value="$PROJECT_DIR$/前端知识点总结/01-html/01-doctype( 文档类型)的作用.md" />
         <option value="$PROJECT_DIR$/前端知识点总结/02-css/00-常见的兼容性问题.md" />
@@ -112,6 +125,7 @@
         <option value="$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/06-归并排序(js版,数组方法很方便!!).js" />
         <option value="$PROJECT_DIR$/数据结构与算法javascript实现/00-排序算法/07-堆排序(!!!!!).js" />
         <option value="$PROJECT_DIR$/数据结构与算法javascript实现/00-排序算法/05-快速排序(1!!!!!).js" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -333,12 +347,12 @@
       <workItem from="1467801006971" duration="200000" />
       <workItem from="1467858345270" duration="10805000" />
       <workItem from="1467887121667" duration="202000" />
-      <workItem from="1467888738937" duration="14000" />
+      <workItem from="1467888738937" duration="201000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="119362000" />
+    <option name="totallyTimeSpent" value="119549000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -392,19 +406,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/前端知识点总结/02-css/04-CSS各种居中的方法.md">
-      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/前端知识点总结/02-css/05-清除浮动的方式.md">
       <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
@@ -920,6 +921,20 @@
           <caret line="38" column="22" selection-start-line="38" selection-start-column="22" selection-end-line="38" selection-end-column="22" />
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="198">
+            <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
       </provider>
     </entry>
   </component>
