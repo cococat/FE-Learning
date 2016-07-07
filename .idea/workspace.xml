@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/07-堆排序.js" afterPath="$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/07-堆排序.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/05-归并排序.js" afterPath="$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/05-归并排序(!!!!!).js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/06-快速排序.js" afterPath="$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/06-快速排序(!!!!!).js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/07-堆排序.js" afterPath="$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/07-堆排序(!!!!!).js" />
     </list>
     <ignored path="前端知识学习.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,8 +25,8 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="07-堆排序.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/07-堆排序.js">
+      <file leaf-file-name="07-堆排序(!!!!!).js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/07-堆排序(!!!!!).js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="261">
               <caret line="61" column="0" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
@@ -33,8 +35,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="05-归并排序.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/05-归并排序.js">
+      <file leaf-file-name="05-归并排序(!!!!!).js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/05-归并排序(!!!!!).js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="308">
               <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="47" selection-end-column="23" />
@@ -43,8 +45,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="06-快速排序.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/06-快速排序.js">
+      <file leaf-file-name="06-快速排序(!!!!!).js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/06-快速排序(!!!!!).js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="116">
               <caret line="65" column="29" selection-start-line="65" selection-start-column="29" selection-end-line="65" selection-end-column="29" />
@@ -242,10 +244,10 @@
     </key>
   </component>
   <component name="RunManager" selected="Node.js.07-堆排序.js">
-    <configuration default="false" name="05-归并排序.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="05-归并排序.js" working-dir="$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法">
+    <configuration default="false" name="05-归并排序.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/05-归并排序(!!!!!).js" working-dir="$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法">
       <method />
     </configuration>
-    <configuration default="false" name="06-快速排序.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="06-快速排序.js" working-dir="$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法">
+    <configuration default="false" name="06-快速排序.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/06-快速排序(!!!!!).js" working-dir="$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法">
       <method />
     </configuration>
     <configuration default="false" name="01-线性查找.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="01-线性查找.js" working-dir="$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-查找算法">
@@ -254,7 +256,7 @@
     <configuration default="false" name="02-二分查找.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="02-二分查找.js" working-dir="$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-查找算法">
       <method />
     </configuration>
-    <configuration default="false" name="07-堆排序.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="07-堆排序.js" working-dir="$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法">
+    <configuration default="false" name="07-堆排序.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/07-堆排序(!!!!!).js" working-dir="$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法">
       <method />
     </configuration>
     <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
@@ -339,18 +341,18 @@
       <workItem from="1467766251246" duration="20312000" />
       <workItem from="1467799217537" duration="1252000" />
       <workItem from="1467801006971" duration="200000" />
-      <workItem from="1467858345270" duration="2300000" />
+      <workItem from="1467858345270" duration="2383000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="110641000" />
+    <option name="totallyTimeSpent" value="110724000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22478157" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27323273" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -905,7 +907,7 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/06-快速排序.js">
+    <entry file="file://$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/06-快速排序(!!!!!).js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="116">
           <caret line="65" column="29" selection-start-line="65" selection-start-column="29" selection-end-line="65" selection-end-column="29" />
@@ -913,7 +915,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/05-归并排序.js">
+    <entry file="file://$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/05-归并排序(!!!!!).js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
           <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="47" selection-end-column="23" />
@@ -921,7 +923,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/07-堆排序.js">
+    <entry file="file://$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/07-堆排序(!!!!!).js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="261">
           <caret line="61" column="0" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
