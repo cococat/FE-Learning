@@ -1,12 +1,13 @@
 /***
- * 冒泡排序
+ * 冒泡排序: 最慢的排序算法,基本上用不着!!!
  * */
 
 var generateTestData = require('./00-TestDataGenerator');
 
 var bubbleSort = function (data) {
     var l = data.length;
-    for (var i = 0; i <= l - 1; i++) {
+    for (var i = 0; i <= l - 1; i++) {  //外层循环表示要进行length趟排序
+        //内层循环表示在每一趟中两两交换进行排序
         for (var j = 1; j <= l; j++) {
             if (data[j] < data[j - 1]) {
                 var tmp = data[j];
