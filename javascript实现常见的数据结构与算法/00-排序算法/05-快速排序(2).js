@@ -9,8 +9,6 @@
  * 将列表中小于基准值的数据移动到一侧,将大于基准值的数据移动到另一侧。
  *
  * 快速排序非常适用于大数据集,处理小数据集反而性能下降。
- *
- * 快速掌握快排: "挖坑填数"+分治!!!!!!
  */
 
 var generateTestData = require('./00-TestDataGenerator');
@@ -25,7 +23,7 @@ function swap(items, firstIndex, secondIndex) {
 }
 
 /**
- * 分区操作
+ * 分区操作: 以数组的中位数为基准值!
  * */
 function partition(items, left, right) {
     var pivot = items[Math.floor((right + left) / 2)],
