@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/05-掌握快排(!!!!!).md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/05-快速排序(!!!!!).js" afterPath="$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/05-快速排序(!!!!!).js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/05-掌握快排(!!!!!).md" afterPath="$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/05-掌握快排(!!!!!).md" />
     </list>
     <ignored path="前端知识学习.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -37,16 +35,16 @@
       </file>
       <file leaf-file-name="05-掌握快排(!!!!!).md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/05-掌握快排(!!!!!).md">
-          <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="-66">
-                <caret line="7" column="52" selection-start-line="7" selection-start-column="52" selection-end-line="7" selection-end-column="52" />
+              <first_editor relative-caret-position="22">
+                <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
             </state>
           </provider>
-          <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
+          <provider editor-type-id="MarkdownFxPreviewEditor">
             <state />
           </provider>
         </entry>
@@ -337,12 +335,12 @@
       <workItem from="1467766251246" duration="20312000" />
       <workItem from="1467799217537" duration="1252000" />
       <workItem from="1467801006971" duration="200000" />
-      <workItem from="1467858345270" duration="4971000" />
+      <workItem from="1467858345270" duration="5042000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="113312000" />
+    <option name="totallyTimeSpent" value="113383000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -917,16 +915,16 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/05-掌握快排(!!!!!).md">
-      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="-66">
-            <caret line="7" column="52" selection-start-line="7" selection-start-column="52" selection-end-line="7" selection-end-column="52" />
+          <first_editor relative-caret-position="22">
+            <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
-      <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
         <state />
       </provider>
     </entry>
