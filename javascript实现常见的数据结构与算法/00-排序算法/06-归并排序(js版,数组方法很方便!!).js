@@ -10,7 +10,9 @@
 
 var generateTestData = require('./00-TestDataGenerator');
 
-
+/***
+ * js数组方法实现merge非常简洁,但是效率不高,见通用版本的merge方法!!!
+ * */
 function merge(left, right) {
     var result = [];
     while (left.length > 0 && right.length > 0) {
@@ -24,6 +26,9 @@ function merge(left, right) {
 }
 
 function mergeSort(items) {
+    /***
+     * 此句为递归结束条件,绝对不能遗漏!!!!
+     */
     if (items.length == 1) {
         return items;
     }
@@ -34,7 +39,7 @@ function mergeSort(items) {
 }
 
 
-var data = generateTestData(100000);
+var data = generateTestData(300000);
 // console.log(data);
 
 var start = new Date().getTime();
