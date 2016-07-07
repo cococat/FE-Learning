@@ -41,7 +41,7 @@ var selectionSort = function (data) {
     return data;
 }
 
-var data = generateTestData(20000);
+var data = generateTestData(100000);
 // console.log(data);
 
 var start = new Date().getTime();
