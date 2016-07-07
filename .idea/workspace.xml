@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/05-归并排序(!!!!!).js" afterPath="$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/06-归并排序(!!!!!).js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/06-快速排序(!!!!!).js" afterPath="$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/05-快速排序(!!!!!).js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/05-掌握快排(!!!!!).md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/05-快速排序(!!!!!).js" afterPath="$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/05-快速排序(!!!!!).js" />
     </list>
     <ignored path="前端知识学习.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -24,23 +25,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="06-归并排序(!!!!!).js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/06-归并排序(!!!!!).js">
+      <file leaf-file-name="05-快速排序(!!!!!).js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/05-快速排序(!!!!!).js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="682">
-              <caret line="31" column="20" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
+            <state relative-caret-position="264">
+              <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="05-快速排序(!!!!!).js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/05-快速排序(!!!!!).js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="65" column="29" selection-start-line="65" selection-start-column="29" selection-end-line="65" selection-end-column="29" />
-              <folding />
+      <file leaf-file-name="05-掌握快排(!!!!!).md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/05-掌握快排(!!!!!).md">
+          <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="-66">
+                <caret line="7" column="52" selection-start-line="7" selection-start-column="52" selection-end-line="7" selection-end-column="52" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
+          </provider>
+          <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
+            <state />
           </provider>
         </entry>
       </file>
@@ -60,8 +67,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/javascript设计模式/14-适配器模式adaptor.html" />
-        <option value="$PROJECT_DIR$/javascript设计模式/15-设计原则与编程技巧.html" />
         <option value="$PROJECT_DIR$/javascript实现常见的数据结构与算法/data-structures/08-BinarySearchTree.js" />
         <option value="$PROJECT_DIR$/javascript设计模式/06-命令模式command.js" />
         <option value="$PROJECT_DIR$/javascript设计模式/07-组合模式component.js" />
@@ -111,6 +116,8 @@
         <option value="$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/02-选择排序.js" />
         <option value="$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/03-插入排序.js" />
         <option value="$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/04-希尔排序.js" />
+        <option value="$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/05-快速排序(!!!!!).js" />
+        <option value="$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/05-掌握快排(!!!!!).md" />
       </list>
     </option>
   </component>
@@ -330,18 +337,18 @@
       <workItem from="1467766251246" duration="20312000" />
       <workItem from="1467799217537" duration="1252000" />
       <workItem from="1467801006971" duration="200000" />
-      <workItem from="1467858345270" duration="3313000" />
+      <workItem from="1467858345270" duration="4971000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="111654000" />
+    <option name="totallyTimeSpent" value="113312000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27323273" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.098490864" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -382,19 +389,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/前端知识点总结/01-html/10-http状态吗和304缓存原理.md">
-      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="537">
-            <caret line="38" column="3" selection-start-line="38" selection-start-column="3" selection-end-line="38" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/前端知识点总结/02-css/00-常见的兼容性问题.md">
       <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
@@ -916,10 +910,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/05-快速排序(!!!!!).js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="65" column="29" selection-start-line="65" selection-start-column="29" selection-end-line="65" selection-end-column="29" />
+        <state relative-caret-position="264">
+          <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/05-掌握快排(!!!!!).md">
+      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="-66">
+            <caret line="7" column="52" selection-start-line="7" selection-start-column="52" selection-end-line="7" selection-end-column="52" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
+        <state />
       </provider>
     </entry>
   </component>

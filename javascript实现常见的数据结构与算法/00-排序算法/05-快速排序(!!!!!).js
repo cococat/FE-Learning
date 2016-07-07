@@ -10,24 +10,23 @@
  *
  * 快速排序非常适用于大数据集,处理小数据集反而性能下降。
  *
- *
- * 考虑按照身高给学生排序。在快速排序中，我们随便挑出一个学生，以该学生的身高为参考(pivot)。
- * 然后让比该学生高的站在该学生的右边，剩下的站在该学生的左边。
- * 很明显，所有的学生被分成了两组。该学生右边的学生的身高都大于该学生左边的学生的身高。
- * 我们继续，在低身高学生组随便挑出一个学生，将低身高组的学生分为两组(很低和不那么低)。
- * 同样，将高学生组也分为两组(不那么高和很高)。
- * 如此继续细分，直到分组中只有一个学生。当所有的分组中都只有一个学生时，则排序完成。
+ * 快速掌握快排: "挖坑填数"+分治!!!!!!
  */
 
 var generateTestData = require('./00-TestDataGenerator');
 
-
+/**
+ * 交换两个数
+ * */
 function swap(items, firstIndex, secondIndex) {
     var temp = items[firstIndex];
     items[firstIndex] = items[secondIndex];
     items[secondIndex] = temp;
 }
 
+/**
+ * 分区操作
+ * */
 function partition(items, left, right) {
     var pivot = items[Math.floor((right + left) / 2)],
         i = left,
@@ -48,6 +47,9 @@ function partition(items, left, right) {
     return i;
 }
 
+/**
+ * 快速排序
+ * */
 function quickSort(items, left, right) {
     var index;
     if (items.length > 1) {
