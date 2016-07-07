@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/00-排序算法分析比较.md" afterPath="$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/00-排序算法分析比较.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/05-归并排序.js" afterPath="$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/05-归并排序.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/06-快速排序.js" afterPath="$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/06-快速排序.js" />
     </list>
     <ignored path="前端知识学习.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,38 +24,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="00-排序算法分析比较.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/00-排序算法分析比较.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="385">
-                <caret line="52" column="7" selection-start-line="52" selection-start-column="7" selection-end-line="52" selection-end-column="7" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-          <provider editor-type-id="MarkdownFxPreviewEditor">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MarkDown语法指南.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MarkDown语法指南.md">
-          <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="-5480">
-                <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-          <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
-            <state />
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="07-堆排序.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/07-堆排序.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -65,11 +34,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="04-希尔排序.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/04-希尔排序.js">
+      <file leaf-file-name="05-归并排序.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/05-归并排序.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="858">
-              <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="51" selection-end-column="23" />
+            <state relative-caret-position="990">
+              <caret line="45" column="29" selection-start-line="45" selection-start-column="29" selection-end-line="45" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="06-快速排序.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/06-快速排序.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="116">
+              <caret line="65" column="29" selection-start-line="65" selection-start-column="29" selection-end-line="65" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -135,13 +114,13 @@
         <option value="$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/02-选择排序.js" />
         <option value="$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/03-插入排序.js" />
         <option value="$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/04-希尔排序.js" />
-        <option value="$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/05-归并排序.js" />
-        <option value="$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/06-快速排序.js" />
         <option value="$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-查找算法/01-线性查找.js" />
         <option value="$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-查找算法/02-二分查找.js" />
         <option value="$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/07-堆排序.js" />
         <option value="$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/00-排序算法分析.md" />
         <option value="$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/00-排序算法分析比较.md" />
+        <option value="$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/06-快速排序.js" />
+        <option value="$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/05-归并排序.js" />
       </list>
     </option>
   </component>
@@ -263,7 +242,7 @@
       <recent name="$PROJECT_DIR$/其他" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.02-二分查找.js">
+  <component name="RunManager" selected="Node.js.05-归并排序.js">
     <configuration default="false" name="03-插入排序.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="03-插入排序.js" working-dir="$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法">
       <method />
     </configuration>
@@ -329,10 +308,10 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.02-二分查找.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.01-线性查找.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.06-快速排序.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.05-归并排序.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.05-归并排序.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.06-快速排序.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.02-二分查找.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.01-线性查找.js" />
         <item index="4" class="java.lang.String" itemvalue="Node.js.03-插入排序.js" />
       </list>
     </recent_temporary>
@@ -361,33 +340,33 @@
       <workItem from="1467766251246" duration="20312000" />
       <workItem from="1467799217537" duration="1252000" />
       <workItem from="1467801006971" duration="200000" />
-      <workItem from="1467858345270" duration="1534000" />
+      <workItem from="1467858345270" duration="1957000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="109875000" />
+    <option name="totallyTimeSpent" value="110298000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17156473" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22478157" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27459016" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39863014" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19945355" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39863014" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -868,20 +847,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/05-归并排序.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="29" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/06-快速排序.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="59" column="9" selection-start-line="59" selection-start-column="9" selection-end-line="59" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-查找算法/00-TestDataGenerator.js" />
     <entry file="file://$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-查找算法/01-线性查找.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -905,20 +870,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/07-堆排序.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/04-希尔排序.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="858">
           <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="51" selection-end-column="23" />
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/00-排序算法分析比较.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="385">
+            <caret line="52" column="7" selection-start-line="52" selection-start-column="7" selection-end-line="52" selection-end-column="7" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MarkDown语法指南.md">
@@ -935,18 +906,28 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/00-排序算法分析比较.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="385">
-            <caret line="52" column="7" selection-start-line="52" selection-start-column="7" selection-end-line="52" selection-end-column="7" />
-            <folding />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/07-堆排序.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+          <folding />
         </state>
       </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/06-快速排序.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="65" column="29" selection-start-line="65" selection-start-column="29" selection-end-line="65" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/05-归并排序.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="45" column="29" selection-start-line="45" selection-start-column="29" selection-end-line="45" selection-end-column="29" />
+          <folding />
+        </state>
       </provider>
     </entry>
   </component>

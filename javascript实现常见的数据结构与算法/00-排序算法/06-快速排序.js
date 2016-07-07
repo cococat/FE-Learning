@@ -63,7 +63,7 @@ function quickSort(items, left, right) {
     return items;
 }
 
-var data = generateTestData(20000);
+var data = generateTestData(500000);
 // console.log(data);
 
 var start = new Date().getTime();

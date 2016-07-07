@@ -10,14 +10,32 @@
 
 var generateTestData = require('./00-TestDataGenerator');
 
-var mergeSort = function (data) {
 
-
-    return data;
+function merge(left, right) {
+    var result = [];
+    while (left.length > 0 && right.length > 0) {
+        if (left[0] < right[0]) {
+            result.push(left.shift());
+        } else {
+            result.push(right.shift());
+        }
+    }
+    return result.concat(left).concat(right);
 }
 
-var data = generateTestData(20);
-console.log(data);
+function mergeSort(items) {
+    if (items.length == 1) {
+        return items;
+    }
+    var middle = Math.floor(items.length / 2),
+        left = items.slice(0, middle),
+        right = items.slice(middle);
+    return merge(mergeSort(left), mergeSort(right));
+}
+
+
+var data = generateTestData(100000);
+// console.log(data);
 
 var start = new Date().getTime();
 console.log('start sorting....');
@@ -27,4 +45,4 @@ var result = mergeSort(data);
 var end = new Date().getTime();
 console.log('耗时: ' + (end - start) + ' ms');
 
-console.log(result);
+// console.log(result);
