@@ -52,7 +52,7 @@ function quickSort(data, l, r) {
     return data;
 }
 
-var data = generateTestData(50000000);
+var data = generateTestData(20000000);
 // console.log(data);
 
 var start = new Date().getTime();
