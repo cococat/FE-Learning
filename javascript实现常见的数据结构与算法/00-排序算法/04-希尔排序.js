@@ -9,6 +9,10 @@
  * 可以动态定义每次排序的间隔,但在应用中,通常会提前定义好间隔序列。
  *
  * 希尔排序可以和其他排序算法配合使用,本例使用插入排序。
+ *
+ * 分组间隔的合理性会对希尔排序的性能造成较大的影响!!!
+ * 希尔排序比冒泡排序平均快5倍,比插入排序大致快2倍,但是比快排、归并、堆排序慢的多!!!!
+ * 但是比较简单实现,通常适用于数据量在5000以下的场景。。
  */
 
 var generateTestData = require('./00-TestDataGenerator');
@@ -37,7 +41,7 @@ var shellSort = function (data, gaps /*array of numbers*/) {
 }
 
 
-var data = generateTestData(20000);
+var data = generateTestData(50000);
 // console.log(data);
 
 var start = new Date().getTime();
