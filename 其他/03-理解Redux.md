@@ -565,7 +565,8 @@ reducer(state, action) 这个调用方式所反映的 reducer 跟 action 的关�
 
 原本我们可以像下面那样做：
 ```
-//我们可以这样：cosnole.log(state, action) 
+//我们可以这样：
+cosnole.log(state, action) 
 //调用之前
 state = reducer(state, action)
 cosnole.log(state, action) 
@@ -579,7 +580,9 @@ cosnole.log(store.getState(), action) //调用之后
 applyMiddlewares 就是一个有用的思路。它的原理很简单，在《JavaScript 高级程序设计》里也有提到，就是模块模式。
 ```
 export default function applyMiddleware(...middlewares) {
-  return createStore => (reducer, initialState) => {    var store = createStore(reducer, initialState);    var dispatch = store.dispatch; //拿到真正的 dispatch
+  return createStore => (reducer, initialState) => {    
+    var store = createStore(reducer, initialState);    
+    var dispatch = store.dispatch; //拿到真正的 dispatch
     //将最重要的两个方法 getState/dispatch 整合出来
     var middlewareAPI = {
       getState: store.getState,
@@ -648,66 +651,6 @@ store.getComponent = () => {
 }
 具体实现可以参考 Isomorphism-react-todomvc 项目。
 ```
-
-#### 镜像 store 模式
-这里介绍的所谓镜像 store 模式，并非 redux 官方文档里提到的，而是在实践过程中我所发现的有趣用法，大家看看就好，
-仅供参考，不要误以为是官方推荐模式即可。
-
-思路很简单，既然每个 actionCreator 返回的都是 plain javascript object，它们都是可以被 JSON.stirngify 系列化的。
-也就是说可以 post 到服务端，如果服务端也有一个同样的 store，它 store.dispatch 一下，不就跟客户端一致了？
-
-这样的话，我们只需要传更轻量的 action 数据，这种做法犹如 graphql 一般。
-另外，在服务端的 store.subscribe 中我们绑定一个 websocket.emit 函数，就可以把服务端根据 action 所做的数据更新同步到所有浏览器端了。
-
-//store
-import { createStore } from 'redux'
-import rootReducers from '../public/js/src/index/reducers'
-
-let store = createStore(rootReducers, { todos: [] })
-export default store
-
-//router
-router.post('/todos', (req, res) => {  
-    store.dispatch(req.body) //直接 dispatch action 更新 state  
-    res.json(Object.assign({}, ok, {    data: req.body  }))
-})
-
-// ./bin/www
-let server = require('http').createServer(app);
-let io = socketIO(server)
-store.subscribe(() => io.emit('change', store.getState())) //服务端推送// ./index.js
-
-//浏览器端响应一个 
-dispatchio().on('change', state => store.dispatch({  type: SERVER_UPDATE,  state
-}))
-
-// .//reducers/list.js
-export default (state = [], action) => {  
-    switch (action.type) {    
-        //...other case    
-        case SERVER_UPDATE:    
-            return action.state.todos //将整个 todos 数据跟服务端同步起来    
-        default:    
-            return state  
-    }
-}
-
-// ./middleware/restful.js
-import { API_TODOS } from '../constants/API'
-import * as ActionTypes from '../constants/ActionTypes'
-export default store => next => action => {  
-    if (action.type in ActionTypes) { //用中间件模式，筛选有修改数据作用的 action   
-        fetch(API_TODOS, {      
-            method: 'post',      
-            headers: {        
-                'Accept': 'application/json',        
-                'Content-Type': 'application/json'      
-            },      
-            body: JSON.stringify(action) //打包发送到服务端    
-        })  
-    }  //对 action 什么都不做，让浏览器端 action 继续传递  
-    return next(action) //可以不用等待服务端就更新视图
-}
 
 
 ```
