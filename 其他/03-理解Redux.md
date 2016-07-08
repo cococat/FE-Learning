@@ -18,13 +18,12 @@ DOM 事件还好，前端可以自主控制与设计； ajax 获取的数据，�
 ##### 这种对数据来源做萃取工作的函数，就叫 `action` 。
 
 ```
-它叫这个名字，不是因为它「数据预处理」的功能，而是在 web 应用中所有的数据与状态的变化，
-几乎都来自「事件」。dom 事件，ajax 成功或失败事件，路由 change 事件， setTimeout 定时器事件，以及自定义事件。
+它叫这个名字，不是因为它「数据预处理」的功能，而是在 web 应用中所有的数据与状态的变化，几乎都来自「事件」。
+dom 事件，ajax 成功或失败事件，路由 change 事件， setTimeout 定时器事件，以及自定义事件。
 任意事件都可能产生需要合并到全局数据对象里的新数据或者线索。
 
 action 跟 event (事件)并不等同。比如在表单的 keyup 事件中，我们只在e.keyCode 等于回车键或者取消键时，才触发一类 action 。
-dom 事件提供的数据是 event 对象，里面主要包含跟 dom 相关的数据，我们无法直接合并到全局数据对象里，
-我们只将感兴趣的部分传入 action 函数而已。
+dom 事件提供的数据是 event 对象，里面主要包含跟 dom 相关的数据，我们无法直接合并到全局数据对象里，我们只将感兴趣的部分传入 action 函数而已。
 
 所以，是 event 响应函数里主动调用了 action 函数，并且传入它需要的数据。
 ```
@@ -140,15 +139,15 @@ redux 的 combineReducers 源码如下：
  //finalReducers 是 combineReducers(reducers) 的 reducers 对象去掉非函数属性的产物
  //mapValue 把 finalReducers 对象里的函数，映射到相同 key 值的新对象中
  function combination(state = defaultState, action) {
-    var finalState = mapValues(finalReducers, (reducer, key) => {      
-    var newState = reducer(state[key], action); //这里调用子 reducer 
-      if (typeof newState === 'undefined') {        
-        throw new Error(getErrorMessage(key, action));
-      }      
-      return newState; //返回新的子 state
+        var finalState = mapValues(finalReducers, (reducer, key) => {      
+        var newState = reducer(state[key], action); //这里调用子 reducer 
+        if (typeof newState === 'undefined') {        
+           throw new Error(getErrorMessage(key, action));
+        }      
+        return newState; //返回新的子 state
     });    
-    //...省略一些业务无关的代码
-    return finalState; //返回新 state
+        //...省略一些业务无关的代码
+        return finalState; //返回新 state
  };
 ```
 
@@ -166,8 +165,7 @@ export default (state, action) => {
     switch (action.type) {    
         case A:    
             let subState = superGetter(state, 'a.b.c') //根据 path 深度获取属性值    
-            return superSetter(state, 'a.b.c', 
-            handleA(subState)) //根据 path 深度设置属性   
+            return superSetter(state, 'a.b.c', handleA(subState)) //根据 path 深度设置属性   
         default:    
             state  
     }
@@ -256,13 +254,14 @@ export default combineReducers(reducers, transformers) {
 
 有了上面的修改，我们就可以针对 action.type 来选择全局 state 的更新路径了。
 ```
-var transformers = {  'ACTION_TYPE1': (state, action, reducer) => {    
-    return {      ...state,      newProp: reducer(state.prop, action) //更新到 newProp 属性中去    }  },  
+var transformers = {  
+    'ACTION_TYPE1': (state, action, reducer) => {    
+        return { ...state, newProp: reducer(state.prop, action) //更新到 newProp 属性中去    
+        }  
+    },  
     'ACTION_TYPE2': (state, action, reducer) => {    
-        return {      ...state,      
-                    otherProp: reducer(state.otherProp, action) //更新到 otherProp 属性中去    
-                }  
-            }
+        return { ...state, otherProp: reducer(state.otherProp, action) //更新到 otherProp 属性中去 }  
+    }
 }
 var rootReducers = combineReducers(reducers, transformers)
 ```
