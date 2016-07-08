@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/其他/03-02-理解Redux.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/其他/03-理解Redux.md" afterPath="$PROJECT_DIR$/其他/03-01-理解Redux.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/其他/03-理解Redux.md" afterPath="$PROJECT_DIR$/其他/03-理解Redux.md" />
     </list>
     <ignored path="前端知识学习.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -24,18 +25,34 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="03-理解Redux.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/其他/03-理解Redux.md">
-          <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+      <file leaf-file-name="03-01-理解Redux.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/其他/03-01-理解Redux.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="495">
-                <caret line="660" column="25" selection-start-line="660" selection-start-column="25" selection-end-line="660" selection-end-column="25" />
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="15" selection-start-line="0" selection-start-column="15" selection-end-line="0" selection-end-column="15" />
                 <folding />
               </first_editor>
               <second_editor />
             </state>
           </provider>
-          <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
+          <provider editor-type-id="MarkdownFxPreviewEditor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="03-02-理解Redux.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/其他/03-02-理解Redux.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="13" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+          <provider editor-type-id="MarkdownFxPreviewEditor">
             <state />
           </provider>
         </entry>
@@ -56,8 +73,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/前端知识点总结/01-html/01-doctype( 文档类型)的作用.md" />
-        <option value="$PROJECT_DIR$/前端知识点总结/02-css/00-常见的兼容性问题.md" />
         <option value="$PROJECT_DIR$/前端知识点总结/02-css/05-清除浮动的方式.md" />
         <option value="$PROJECT_DIR$/前端知识点总结/02-css/02-浮动的原理和工作方式,产生的影响.md" />
         <option value="$PROJECT_DIR$/前端知识点总结/03-javascript/16-null和undefined区别.md" />
@@ -107,6 +122,8 @@
         <option value="$PROJECT_DIR$/数据结构与算法javascript实现/00-排序算法/05-快速排序(1!!!!!).js" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/其他/03-理解Redux.md" />
+        <option value="$PROJECT_DIR$/其他/03-01-理解Redux.md" />
+        <option value="$PROJECT_DIR$/其他/03-02-理解Redux.md" />
       </list>
     </option>
   </component>
@@ -145,6 +162,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -179,8 +198,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -312,18 +329,19 @@
       <workItem from="1467887121667" duration="202000" />
       <workItem from="1467888738937" duration="361000" />
       <workItem from="1467956449590" duration="3459000" />
-      <workItem from="1467962074478" duration="112000" />
+      <workItem from="1467962074478" duration="156000" />
+      <workItem from="1467964184737" duration="327000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="123280000" />
+    <option name="totallyTimeSpent" value="123651000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13741064" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.119142175" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -371,19 +389,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/前端知识点总结/02-css/02-浮动的原理和工作方式,产生的影响.md">
-      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="537">
-            <caret line="44" column="3" selection-start-line="44" selection-start-column="3" selection-end-line="44" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/前端知识点总结/02-css/06-css预处理.md">
       <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
@@ -884,17 +889,31 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/其他/03-理解Redux.md">
-      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+    <entry file="file://$PROJECT_DIR$/其他/03-01-理解Redux.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="495">
-            <caret line="660" column="25" selection-start-line="660" selection-start-column="25" selection-end-line="660" selection-end-column="25" />
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="15" selection-start-line="0" selection-start-column="15" selection-end-line="0" selection-end-column="15" />
             <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
-      <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/其他/03-02-理解Redux.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="13" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
         <state />
       </provider>
     </entry>
