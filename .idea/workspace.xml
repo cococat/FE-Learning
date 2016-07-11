@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javascript设计模式/12-装饰者模式decorator.js" afterPath="$PROJECT_DIR$/javascript设计模式/12-装饰者模式decorator.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javascript设计模式/13-状态模式state.js" afterPath="$PROJECT_DIR$/javascript设计模式/13-状态模式state.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javascript设计模式/15-设计原则与编程技巧.md" afterPath="$PROJECT_DIR$/javascript设计模式/15-设计原则与编程技巧.md" />
     </list>
     <ignored path="前端知识学习.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,15 +24,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="12-装饰者模式decorator.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/javascript设计模式/12-装饰者模式decorator.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="59" column="1" selection-start-line="59" selection-start-column="1" selection-end-line="59" selection-end-column="1" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+      <file leaf-file-name="15-设计原则与编程技巧.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/javascript设计模式/15-设计原则与编程技巧.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="176">
+                <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
+          </provider>
+          <provider editor-type-id="MarkdownFxPreviewEditor">
+            <state />
           </provider>
         </entry>
       </file>
@@ -51,8 +56,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/前端知识点总结/01-html/10-http状态吗和304缓存原理.md" />
-        <option value="$PROJECT_DIR$/前端知识点总结/02-css/09-4种定位方式的区别.md" />
         <option value="$PROJECT_DIR$/前端知识点总结/03-javascript/09-01-跨域方式.md" />
         <option value="$PROJECT_DIR$/前端知识点总结/01-html/02-浏览器的标准模式与怪异模式区别.md" />
         <option value="$PROJECT_DIR$/前端知识点总结/01-html/03-data-xxx属性的作用.md" />
@@ -102,6 +105,8 @@
         <option value="$PROJECT_DIR$/javascript设计模式/10-责任链模式responsibilityChain.js" />
         <option value="$PROJECT_DIR$/javascript设计模式/11-中介者模式mediator.js" />
         <option value="$PROJECT_DIR$/javascript设计模式/12-装饰者模式decorator.js" />
+        <option value="$PROJECT_DIR$/javascript设计模式/13-状态模式state.js" />
+        <option value="$PROJECT_DIR$/javascript设计模式/15-设计原则与编程技巧.md" />
       </list>
     </option>
   </component>
@@ -205,10 +210,7 @@
       <recent name="$PROJECT_DIR$/javascript实现常见的数据结构与算法/data-structures" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.12-装饰者模式decorator.js">
-    <configuration default="false" name="05-快速排序(1).js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/数据结构与算法javascript实现/00-排序算法/05-快速排序(1!!!!!).js" working-dir="$PROJECT_DIR$/数据结构与算法javascript实现/00-排序算法">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Node.js.13-状态模式state.js">
     <configuration default="false" name="07-组合模式component.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="07-组合模式component.js" working-dir="$PROJECT_DIR$/javascript设计模式">
       <method />
     </configuration>
@@ -219,6 +221,9 @@
       <method />
     </configuration>
     <configuration default="false" name="12-装饰者模式decorator.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="12-装饰者模式decorator.js" working-dir="$PROJECT_DIR$/javascript设计模式">
+      <method />
+    </configuration>
+    <configuration default="false" name="13-状态模式state.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="13-状态模式state.js" working-dir="$PROJECT_DIR$/javascript设计模式">
       <method />
     </configuration>
     <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
@@ -263,19 +268,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.05-快速排序(1).js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.07-组合模式component.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.08-模板方法模式templateMethod.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.10-责任链模式responsibilityChain.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.12-装饰者模式decorator.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.07-组合模式component.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.08-模板方法模式templateMethod.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.10-责任链模式responsibilityChain.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.12-装饰者模式decorator.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.13-状态模式state.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.12-装饰者模式decorator.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.10-责任链模式responsibilityChain.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.08-模板方法模式templateMethod.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.07-组合模式component.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.05-快速排序(1).js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.13-状态模式state.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.12-装饰者模式decorator.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.10-责任链模式responsibilityChain.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.08-模板方法模式templateMethod.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.07-组合模式component.js" />
       </list>
     </recent_temporary>
   </component>
@@ -309,12 +314,12 @@
       <workItem from="1467956449590" duration="3459000" />
       <workItem from="1467962074478" duration="156000" />
       <workItem from="1467964184737" duration="482000" />
-      <workItem from="1468204958002" duration="8987000" />
+      <workItem from="1468204958002" duration="10348000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="132793000" />
+    <option name="totallyTimeSpent" value="134154000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -324,7 +329,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25273225" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25273225" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
@@ -368,32 +373,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/前端知识点总结/03-javascript/08-Ajax工作原理.md">
-      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="515">
-            <caret line="140" column="1" selection-start-line="140" selection-start-column="1" selection-end-line="140" selection-end-column="1" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/前端知识点总结/03-javascript/09-01-跨域方式.md">
-      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="603">
-            <caret line="55" column="47" selection-start-line="55" selection-start-column="47" selection-end-line="55" selection-end-column="47" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/前端知识点总结/03-javascript/09-02-跨域.md">
       <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
@@ -879,12 +858,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/javascript设计模式/12-装饰者模式decorator.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="59" column="1" selection-start-line="59" selection-start-column="1" selection-end-line="59" selection-end-column="1" />
+        <state relative-caret-position="374">
+          <caret line="62" column="38" selection-start-line="62" selection-start-column="38" selection-end-line="62" selection-end-column="38" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript设计模式/13-状态模式state.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="37" column="5" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript设计模式/15-设计原则与编程技巧.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="176">
+            <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
       </provider>
     </entry>
   </component>
