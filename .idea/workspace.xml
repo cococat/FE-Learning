@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javascript设计模式/11-中介者模式mediator.js" afterPath="$PROJECT_DIR$/javascript设计模式/11-中介者模式mediator.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javascript设计模式/12-装饰者模式decorator.js" afterPath="$PROJECT_DIR$/javascript设计模式/12-装饰者模式decorator.js" />
     </list>
     <ignored path="前端知识学习.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,11 +23,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="11-中介者模式mediator.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/javascript设计模式/11-中介者模式mediator.js">
+      <file leaf-file-name="12-装饰者模式decorator.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/javascript设计模式/12-装饰者模式decorator.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="308">
-              <caret line="14" column="52" selection-start-line="14" selection-start-column="52" selection-end-line="14" selection-end-column="52" />
+              <caret line="59" column="1" selection-start-line="59" selection-start-column="1" selection-end-line="59" selection-end-column="1" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -51,7 +51,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/前端知识点总结/03-javascript/14-attribute和property区别.md" />
         <option value="$PROJECT_DIR$/前端知识点总结/01-html/10-http状态吗和304缓存原理.md" />
         <option value="$PROJECT_DIR$/前端知识点总结/02-css/09-4种定位方式的区别.md" />
         <option value="$PROJECT_DIR$/前端知识点总结/03-javascript/09-01-跨域方式.md" />
@@ -102,6 +101,7 @@
         <option value="$PROJECT_DIR$/javascript设计模式/09-享元模式(蝇量模式)flyweight.js" />
         <option value="$PROJECT_DIR$/javascript设计模式/10-责任链模式responsibilityChain.js" />
         <option value="$PROJECT_DIR$/javascript设计模式/11-中介者模式mediator.js" />
+        <option value="$PROJECT_DIR$/javascript设计模式/12-装饰者模式decorator.js" />
       </list>
     </option>
   </component>
@@ -205,11 +205,8 @@
       <recent name="$PROJECT_DIR$/javascript实现常见的数据结构与算法/data-structures" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.10-责任链模式responsibilityChain.js">
+  <component name="RunManager" selected="Node.js.12-装饰者模式decorator.js">
     <configuration default="false" name="05-快速排序(1).js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/数据结构与算法javascript实现/00-排序算法/05-快速排序(1!!!!!).js" working-dir="$PROJECT_DIR$/数据结构与算法javascript实现/00-排序算法">
-      <method />
-    </configuration>
-    <configuration default="false" name="01-冒泡排序.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="01-冒泡排序.js" working-dir="$PROJECT_DIR$/数据结构与算法javascript实现/00-排序算法">
       <method />
     </configuration>
     <configuration default="false" name="07-组合模式component.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="07-组合模式component.js" working-dir="$PROJECT_DIR$/javascript设计模式">
@@ -219,6 +216,9 @@
       <method />
     </configuration>
     <configuration default="false" name="10-责任链模式responsibilityChain.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="10-责任链模式responsibilityChain.js" working-dir="$PROJECT_DIR$/javascript设计模式">
+      <method />
+    </configuration>
+    <configuration default="false" name="12-装饰者模式decorator.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="12-装饰者模式decorator.js" working-dir="$PROJECT_DIR$/javascript设计模式">
       <method />
     </configuration>
     <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
@@ -264,18 +264,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Node.js.05-快速排序(1).js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.01-冒泡排序.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.07-组合模式component.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.08-模板方法模式templateMethod.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.10-责任链模式responsibilityChain.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.07-组合模式component.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.08-模板方法模式templateMethod.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.10-责任链模式responsibilityChain.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.12-装饰者模式decorator.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.10-责任链模式responsibilityChain.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.08-模板方法模式templateMethod.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.07-组合模式component.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.05-快速排序(1).js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.01-冒泡排序.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.12-装饰者模式decorator.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.10-责任链模式responsibilityChain.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.08-模板方法模式templateMethod.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.07-组合模式component.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.05-快速排序(1).js" />
       </list>
     </recent_temporary>
   </component>
@@ -309,22 +309,22 @@
       <workItem from="1467956449590" duration="3459000" />
       <workItem from="1467962074478" duration="156000" />
       <workItem from="1467964184737" duration="482000" />
-      <workItem from="1468204958002" duration="7893000" />
+      <workItem from="1468204958002" duration="8987000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="131699000" />
+    <option name="totallyTimeSpent" value="132793000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2025417" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24861" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25273225" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25273225" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
@@ -368,27 +368,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/前端知识点总结/03-javascript/04-闭包.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-728">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/前端知识点总结/03-javascript/05-高阶函数与柯里化Currying.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2026">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/前端知识点总结/03-javascript/07-函数节流throttle与防抖debounce.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1899">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/前端知识点总结/03-javascript/08-Ajax工作原理.md">
       <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
@@ -872,6 +851,36 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
           <caret line="14" column="52" selection-start-line="14" selection-start-column="52" selection-end-line="14" selection-end-column="52" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript设计模式/00-call、apply用法和bind实现.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-154">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript设计模式/00-this的四种用法.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-110">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript设计模式/12-装饰者模式decorator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="59" column="1" selection-start-line="59" selection-start-column="1" selection-end-line="59" selection-end-column="1" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
