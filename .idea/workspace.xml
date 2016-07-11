@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javascript设计模式/08-模板方法模式templateMethod.js" afterPath="$PROJECT_DIR$/javascript设计模式/08-模板方法模式templateMethod.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javascript设计模式/09-享元模式(蝇量模式)flyweight.js" afterPath="$PROJECT_DIR$/javascript设计模式/09-享元模式(蝇量模式)flyweight.js" />
     </list>
     <ignored path="前端知识学习.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -24,11 +23,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="08-模板方法模式templateMethod.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/javascript设计模式/08-模板方法模式templateMethod.js">
+      <file leaf-file-name="09-享元模式(蝇量模式)flyweight.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/javascript设计模式/09-享元模式(蝇量模式)flyweight.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2970">
-              <caret line="135" column="33" selection-start-line="135" selection-start-column="33" selection-end-line="135" selection-end-column="33" />
+            <state relative-caret-position="506">
+              <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -52,7 +51,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/前端知识点总结/03-javascript/17-new操作符具体做了什么.md" />
         <option value="$PROJECT_DIR$/前端知识点总结/01-html/09-各浏览器并行下载资源数.md" />
         <option value="$PROJECT_DIR$/前端知识点总结/03-javascript/18-javascript严格模式.md" />
         <option value="$PROJECT_DIR$/前端知识点总结/03-javascript/14-attribute和property区别.md" />
@@ -103,6 +101,7 @@
         <option value="$PROJECT_DIR$/ES6总结/01-为什么不要对数组使用for-in循环(!!!).md" />
         <option value="$PROJECT_DIR$/ES6总结/01-for-of循环.js" />
         <option value="$PROJECT_DIR$/javascript设计模式/08-模板方法模式templateMethod.js" />
+        <option value="$PROJECT_DIR$/javascript设计模式/09-享元模式(蝇量模式)flyweight.js" />
       </list>
     </option>
   </component>
@@ -310,18 +309,18 @@
       <workItem from="1467956449590" duration="3459000" />
       <workItem from="1467962074478" duration="156000" />
       <workItem from="1467964184737" duration="482000" />
-      <workItem from="1468204958002" duration="3883000" />
+      <workItem from="1468204958002" duration="4899000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="127689000" />
+    <option name="totallyTimeSpent" value="128705000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1096108" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2025417" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -369,19 +368,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/前端知识点总结/03-javascript/00-javascript内存泄漏的4种情况.md">
-      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/前端知识点总结/03-javascript/01-原型式继承与Object.create.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -864,8 +850,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/javascript设计模式/08-模板方法模式templateMethod.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2970">
+        <state relative-caret-position="88">
           <caret line="135" column="33" selection-start-line="135" selection-start-column="33" selection-end-line="135" selection-end-column="33" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript设计模式/09-享元模式(蝇量模式)flyweight.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
