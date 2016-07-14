@@ -2,53 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点(01-html)/01-doctype( 文档类型)的作用.md" afterPath="$PROJECT_DIR$/前端知识点总结/01-html/01-doctype( 文档类型)的作用.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点(01-html)/02-浏览器的标准模式与怪异模式区别.md" afterPath="$PROJECT_DIR$/前端知识点总结/01-html/02-浏览器的标准模式与怪异模式区别.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点(01-html)/03-data-xxx属性的作用.md" afterPath="$PROJECT_DIR$/前端知识点总结/01-html/03-data-xxx属性的作用.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点(01-html)/04-01-cookie和session完全总结(!!!).md" afterPath="$PROJECT_DIR$/前端知识点总结/01-html/04-01-cookie和session完全总结(!!!).md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点(01-html)/04-cookie和session,sessionStorage和localStorage区别.md" afterPath="$PROJECT_DIR$/前端知识点总结/01-html/04-cookie和session,sessionStorage和localStorage区别.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点(01-html)/05-GET和POST区别.md" afterPath="$PROJECT_DIR$/前端知识点总结/01-html/05-GET和POST区别.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点(01-html)/06-渐进增强和优雅降级.md" afterPath="$PROJECT_DIR$/前端知识点总结/01-html/06-渐进增强和优雅降级.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点(01-html)/07-web语义化的理解.md" afterPath="$PROJECT_DIR$/前端知识点总结/01-html/07-web语义化的理解.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点(01-html)/08-Html5新元素.md" afterPath="$PROJECT_DIR$/前端知识点总结/01-html/08-Html5新元素.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点(01-html)/09-各浏览器并行下载资源数.md" afterPath="$PROJECT_DIR$/前端知识点总结/01-html/09-各浏览器并行下载资源数.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点(01-html)/10-http状态吗和304缓存原理.md" afterPath="$PROJECT_DIR$/前端知识点总结/01-html/10-http状态吗和304缓存原理.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点(02-css)/00-常见的兼容性问题.md" afterPath="$PROJECT_DIR$/前端知识点总结/02-css/00-常见的兼容性问题.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点(02-css)/01-什么是css-reset.md" afterPath="$PROJECT_DIR$/前端知识点总结/02-css/01-什么是css-reset.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点(02-css)/02-浮动的原理和工作方式,产生的影响.md" afterPath="$PROJECT_DIR$/前端知识点总结/02-css/02-浮动的原理和工作方式,产生的影响.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点(02-css)/03-CSS常用的选择器、计算权重、CSS性能.md" afterPath="$PROJECT_DIR$/前端知识点总结/02-css/03-CSS常用的选择器、计算权重、CSS性能.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点(02-css)/04-CSS各种居中的方法.md" afterPath="$PROJECT_DIR$/前端知识点总结/02-css/04-CSS各种居中的方法.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点(02-css)/05-清除浮动的方式.md" afterPath="$PROJECT_DIR$/前端知识点总结/02-css/05-清除浮动的方式.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点(02-css)/06-css预处理.md" afterPath="$PROJECT_DIR$/前端知识点总结/02-css/06-css预处理.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点(02-css)/07-01-盒模型.md" afterPath="$PROJECT_DIR$/前端知识点总结/02-css/07-01-盒模型.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点(02-css)/07-02-box-sizing属性.md" afterPath="$PROJECT_DIR$/前端知识点总结/02-css/07-02-box-sizing属性.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点(02-css)/08-inline、inline-block、block区别.md" afterPath="$PROJECT_DIR$/前端知识点总结/02-css/08-inline、inline-block、block区别.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点(02-css)/09-4种定位方式的区别.md" afterPath="$PROJECT_DIR$/前端知识点总结/02-css/09-4种定位方式的区别.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点(02-css)/10-css link和@import.md" afterPath="$PROJECT_DIR$/前端知识点总结/02-css/10-css link和@import.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点(02-css)/11-display属性详解(!!!!!).md" afterPath="$PROJECT_DIR$/前端知识点总结/02-css/11-display属性详解(!!!!!).md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点(03-javascript)/00-javascript内存泄漏的4种情况.md" afterPath="$PROJECT_DIR$/前端知识点总结/03-javascript/00-javascript内存泄漏的4种情况.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点(03-javascript)/01-原型式继承与Object.create.js" afterPath="$PROJECT_DIR$/前端知识点总结/03-javascript/01-原型式继承与Object.create.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点(03-javascript)/02-this的四种用法.js" afterPath="$PROJECT_DIR$/前端知识点总结/03-javascript/02-this的四种用法.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点(03-javascript)/03-01-call、apply用法和bind实现.js" afterPath="$PROJECT_DIR$/前端知识点总结/03-javascript/03-01-call、apply用法和bind实现.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点(03-javascript)/03-2-一道面试题.js" afterPath="$PROJECT_DIR$/前端知识点总结/03-javascript/03-2-一道面试题.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点(03-javascript)/04-闭包.js" afterPath="$PROJECT_DIR$/前端知识点总结/03-javascript/04-闭包.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点(03-javascript)/05-高阶函数与柯里化Currying.js" afterPath="$PROJECT_DIR$/前端知识点总结/03-javascript/05-高阶函数与柯里化Currying.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点(03-javascript)/06-高阶函数实现AOP.js" afterPath="$PROJECT_DIR$/前端知识点总结/03-javascript/06-高阶函数实现AOP.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点(03-javascript)/07-函数节流throttle与防抖debounce.html" afterPath="$PROJECT_DIR$/前端知识点总结/03-javascript/07-函数节流throttle与防抖debounce.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点(03-javascript)/08-Ajax工作原理.md" afterPath="$PROJECT_DIR$/前端知识点总结/03-javascript/08-Ajax工作原理.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点(03-javascript)/09-01-跨域方式.md" afterPath="$PROJECT_DIR$/前端知识点总结/03-javascript/09-01-跨域方式.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点(03-javascript)/09-02-跨域.md" afterPath="$PROJECT_DIR$/前端知识点总结/03-javascript/09-02-跨域.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点(03-javascript)/10-前端性能优化.md" afterPath="$PROJECT_DIR$/前端知识点总结/03-javascript/10-前端性能优化.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点(03-javascript)/11-缓存.md" afterPath="$PROJECT_DIR$/前端知识点总结/03-javascript/11-缓存.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点(03-javascript)/12-XSS和CSRF.md" afterPath="$PROJECT_DIR$/前端知识点总结/03-javascript/12-XSS和CSRF.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点(03-javascript)/13-事件代理和事件冒泡.md" afterPath="$PROJECT_DIR$/前端知识点总结/03-javascript/13-事件代理和事件冒泡.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点(03-javascript)/14-attribute和property区别.md" afterPath="$PROJECT_DIR$/前端知识点总结/03-javascript/14-attribute和property区别.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点(03-javascript)/15-document的ready和window的load事件区别.md" afterPath="$PROJECT_DIR$/前端知识点总结/03-javascript/15-document的ready和window的load事件区别.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点(03-javascript)/16-null和undefined区别.md" afterPath="$PROJECT_DIR$/前端知识点总结/03-javascript/16-null和undefined区别.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点(03-javascript)/17-new操作符具体做了什么.md" afterPath="$PROJECT_DIR$/前端知识点总结/03-javascript/17-new操作符具体做了什么.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点(03-javascript)/18-javascript严格模式.md" afterPath="$PROJECT_DIR$/前端知识点总结/03-javascript/18-javascript严格模式.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点(03-javascript)/19-为什么不要对数组使用for-in循环.md" afterPath="$PROJECT_DIR$/前端知识点总结/03-javascript/19-为什么不要对数组使用for-in循环.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点(03-javascript)/20-requestAnimationFrame.md" afterPath="$PROJECT_DIR$/前端知识点总结/03-javascript/20-requestAnimationFrame.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/数据结构与算法javascript实现/总结的题目!/00-10道海量数据处理面试算法题.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="前端知识学习.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -68,7 +23,24 @@
     <favorites_list name="前端知识学习" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="00-10道海量数据处理面试算法题.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/数据结构与算法javascript实现/总结的题目!/00-10道海量数据处理面试算法题.md">
+          <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="121">
+                <caret line="349" column="4" selection-start-line="349" selection-start-column="4" selection-end-line="349" selection-end-column="4" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+          <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -84,7 +56,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/前端知识点总结/02-css/07-盒模型.md" />
         <option value="$PROJECT_DIR$/前端知识点总结/03-javascript/08-Ajax工作原理.md" />
         <option value="$PROJECT_DIR$/前端知识点总结/03-javascript/15-document的ready和window的load事件区别.md" />
         <option value="$PROJECT_DIR$/前端知识点总结/03-javascript/03-2-一道面试题.js" />
@@ -135,6 +106,7 @@
         <option value="$PROJECT_DIR$/nodejs/02-NodeJS内存泄漏.md" />
         <option value="$PROJECT_DIR$/nodejs/04-mongoose.md" />
         <option value="$PROJECT_DIR$/nodejs/04-exports和module.exports的区别.md" />
+        <option value="$PROJECT_DIR$/数据结构与算法javascript实现/总结的题目!/00-10道海量数据处理面试算法题.md" />
       </list>
     </option>
   </component>
@@ -189,6 +161,38 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="前端知识学习" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="前端知识学习" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="前端知识学习" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="数据结构与算法javascript实现" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="前端知识学习" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="前端知识学习" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="数据结构与算法javascript实现" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="总结的题目!" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -329,18 +333,18 @@
       <workItem from="1467962074478" duration="156000" />
       <workItem from="1467964184737" duration="482000" />
       <workItem from="1468204958002" duration="12154000" />
-      <workItem from="1468475825733" duration="3085000" />
+      <workItem from="1468475825733" duration="4121000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="139045000" />
+    <option name="totallyTimeSpent" value="140081000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25575852" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23034154" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -388,13 +392,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/javascript设计模式/08-模板方法模式templateMethod.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="135" column="33" selection-start-line="135" selection-start-column="33" selection-end-line="135" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/javascript设计模式/09-享元模式(蝇量模式)flyweight.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="506">
@@ -816,6 +813,20 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="539">
             <caret line="72" column="0" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据结构与算法javascript实现/总结的题目!/00-10道海量数据处理面试算法题.md">
+      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="121">
+            <caret line="349" column="4" selection-start-line="349" selection-start-column="4" selection-end-line="349" selection-end-column="4" />
             <folding />
           </first_editor>
           <second_editor />
